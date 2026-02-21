@@ -17,6 +17,8 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.yirmidort.tv/assets/header/logoWhite.png" group-title="TR Haber",24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TR Haber",NTV
+https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
 #EXTINF:-1 tvg-logo="" group-title="TR Haber",
 http://
 #EXTINF:-1 tvg-logo="" group-title="TR Haber",
@@ -25,6 +27,5 @@ http://
 http://
 #EXTINF:-1 tvg-logo="" group-title="TR Haber",
 http://
-#EXTINF:-1 tvg-logo="" group-title="TR Haber",
-http://
+
 
