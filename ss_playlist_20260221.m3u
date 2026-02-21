@@ -21,10 +21,14 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 http://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" group-title="TR Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="TV Ulusal",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="TR Ulusal",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="TR Haber",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+#EXTINF:-1 tvg-logo="https://ulketvcom.teimg.com/ulketv-com/uploads/2024/11/ulke-tv-w.png" group-title="TR Haber",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tvnet_logo_%282022%29.svg/250px-Tvnet_logo_%282022%29.svg.png" group-title="TR Haber",TVNet
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=12LVdw70cxm_J0Z68DT4gQJNgrRai0XrW" group-title="TR Haber",24
@@ -33,6 +37,8 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1PGpecOWCDSpUY-RqSwyYjnBRjtlgRxAo" group-title="TR Haber",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" group-title="TR Haber",Lider Haber
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="TR Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ae/Tv2_logo_%282026%29.png" group-title="TR Ulusal",TV2
@@ -53,6 +59,8 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1URJZszrsD218BLYBcJZnD4BYbXE1MtxW" group-title="TR Ulusal",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png" group-title="TR Haber",Akit TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" group-title="TR Spor",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" group-title="TR Spor",FB TV
@@ -93,6 +101,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="test",
 http://
+
 
 
 
