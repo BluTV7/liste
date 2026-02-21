@@ -25,10 +25,14 @@ https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17kHPx2CcotXR4FAOL9hfikoCVwddogqZ" group-title="TR Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",
-http://
-
-
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/m/ox/246255/logo.png?v=638671716160495384" group-title="TR Haber",Ekol TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1URJZszrsD218BLYBcJZnD4BYbXE1MtxW" group-title="TR Ulusal",GZT
+https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=13hpJSjDZWt4KSKWKUeAZNusPHQ-0pfIB" group-title="TR Spor",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1xFr9KkQuP2bVviL8MTk0XBy4PeB4wHFO" group-title="TR Spor",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 
 
 
