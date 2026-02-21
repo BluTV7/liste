@@ -3,8 +3,14 @@
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/kurtlar-vadisi/images/c/ca/Kanal_D_logo.svg/revision/latest/thumbnail/width/360/height/360?cb=20240501101427&path-prefix=tr" group-title="TR Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/1280px-Show_TV_logo.svg.png" group-title="TV Ulusal",Show TV
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1rQDPzvVLmq4NB82ppMXVYXfdGG-kwSlL" group-title="TR Ulusal",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
+#EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="TR Ulusal",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/960px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="TR Ulusal",NOW
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR Ulusal",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/360-tr.png/revision/latest?cb=20220108145523" group-title="TR Ulusal",360
@@ -41,6 +47,8 @@ https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/m/ox/246255/logo.png?v=638671716160495384" group-title="TR Haber",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" group-title="TR Haber",TH Türk Haber
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" group-title="TR Ulusal",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1URJZszrsD218BLYBcJZnD4BYbXE1MtxW" group-title="TR Ulusal",GZT
@@ -71,6 +79,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" group-title="TR Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cCbsQDiaNvwdyBJSsflFEsi3W6WFpAcp" group-title="TR Müzik",Kral Pop TV
+https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="TR Ulusal",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lCyk5l3Epunft7lolDkeM8jcloDA1MWO" group-title="TR Çocuk",TRT Çocuk
@@ -83,6 +93,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="test",
 http://
+
 
 
 
