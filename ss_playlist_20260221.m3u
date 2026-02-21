@@ -13,19 +13,20 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 http://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" group-title="TR Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="TR Haber",Beyaz TV
+#EXTINF:-1 tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="TR Ulusal",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.yirmidort.tv/assets/header/logoWhite.png" group-title="TR Haber",24
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=12LVdw70cxm_J0Z68DT4gQJNgrRai0XrW" group-title="TR Haber",24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TR Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
-#EXTINF:-1 tvg-logo="" group-title="TR Haber",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="TR Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",
 http://
-#EXTINF:-1 tvg-logo="" group-title="TR Haber",
+#EXTINF:-1 tvg-logo="" group-title="test",
 http://
-#EXTINF:-1 tvg-logo="" group-title="TR Haber",
+#EXTINF:-1 tvg-logo="" group-title="test",
 http://
-#EXTINF:-1 tvg-logo="" group-title="TR Haber",
-http://
+
 
 
