@@ -5,10 +5,11 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1rQDPzvVLmq4NB82ppMXVYXfdGG-kwSlL" group-title="TR Ulusal",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="TR Ulusal",TV8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/360-tr.png/revision/latest?cb=20220108145523" group-title="TR Ulusal",360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR Ulusal",
 https://
-#EXTINF:-1 tvg-logo="" group-title="TR Ulusal",
-https://
-#EXTINF:-1 tvg-logo="" group-title="TR Ulusal",
-https://
+
 
