@@ -183,6 +183,8 @@ https://trn03.tulix.tv/gt-anews/index.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" group-title="International News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="International News",CNN International
+https://trn03.tulix.tv/CNN-International/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" group-title="International News",Al Jazeera International
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="International News",EuroNews English
@@ -265,6 +267,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="Italy",Rai Tre
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
 
 
 
