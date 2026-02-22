@@ -137,8 +137,9 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" group-title="TR Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",
-http://
+#EXTINF:-1 tvg-logo="https://semerkand.com.tr/wp-content/uploads/2017/05/semerkand-tv-slider-logo.png" group-title="TR Dinî",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+
 
 
 
