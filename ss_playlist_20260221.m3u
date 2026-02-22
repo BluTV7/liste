@@ -109,10 +109,12 @@ https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" group-title="TR Film",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=17nNdbx9eHHWPxaBju8AuS20ds7FAd9Ql" group-title="International News",France 24 English
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/e/26031/euronews-en.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" group-title="International News",Al Jazeera International
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=17nNdbx9eHHWPxaBju8AuS20ds7FAd9Ql" group-title="International News",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=1BgogVmqtLR2Ptgvwrv5uZljm-u2EM57i" group-title="International News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/960px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title="TR Dinî",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png/revision/latest/scale-to-width-down/250?cb=20241025151812" group-title="TR Dinî",Sunna TV
@@ -143,6 +145,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://semerkand.com.tr/wp-content/uploads/2017/05/semerkand-tv-slider-logo.png" group-title="TR Dinî",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+
 
 
 
