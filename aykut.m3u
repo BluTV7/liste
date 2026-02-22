@@ -193,8 +193,6 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/960px-DMAX_-_Logo_2016.svg.png" group-title="TR Belgesel",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EIbviB64pv2YBWFfgp5aHZaoUgahgSwE" group-title="TR Belgesel",Yaban TV
-https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1164766520.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" group-title="TR Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="TR Belgesel",CGTN Documentary
@@ -229,17 +227,17 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://pps.services.adobe.com/api/profile/7F0E2B3153615D1E0A490D4C@AdobeID/image/69f641b4-aa5e-48a8-99f7-7b23809d3314/276" group-title="International News",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/12/canal-RT-ESPANOL-en-vivo.jpg" group-title="News",RT Español
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" group-title="News",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1gA1eG2-zaWAAcQqrJwyG0l67JKa7NxSP" group-title="News",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="News",RT France
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" group-title="News",RT France
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/500px-Al_Jazeera.svg.png" group-title="News",Al Jazeera Channel
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Q1J8AUNj7FqZevcfeJB_haOX6kTtuCk5" group-title="News",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://thumbnails.odycdn.com/optimize/s:500:0/quality:95/plain/https://thumbs.odycdn.com/a993d26186a944b73f7d5eea0e1012f8.jpg" group-title="News",RT Arabic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" group-title="News",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1CDuzjHfQyYUuPajpeUa_KfzwZHneZHbs" group-title="News",Freedom
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
@@ -303,6 +301,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="TR Eğlence",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
