@@ -93,7 +93,7 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.dsmart.com.tr/kanallar/sifir-tv.png" group-title="TR Ulusal",Sıfır TV
 http://87.121.104.29:1855/sifirtvyt/stream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",ekol
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" group-title="TR Spor",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" group-title="TR Spor",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
@@ -113,19 +113,19 @@ https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" group-title="TR Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" group-title="TR Spor",tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 1
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1nE-JDeiAVSJZoTO96IJ-QbdFaIH9zDfp" group-title="TR Spor",tabii Spor 1
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 2
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jm3V6b6x_sH5Ztzg7mfuMKAsdm_MhCZT" group-title="TR Spor",tabii Spor 2
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 3
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1v-0nPGRhr_rqP93K7aHmuP2U22K7UAwi" group-title="TR Spor",tabii Spor 3
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 4
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11h_rW6NTR_jCrZ82QljLSIeWc_tTUR1E" group-title="TR Spor",tabii Spor 4
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 5
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1-8yN2FHE5M15XiDK6hT0GWSbhbLY-DMY" group-title="TR Spor",tabii Spor 5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",tabii Spor 6
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eMVet6ojwuicUknHWeg0Of7yv4Gsdt07" group-title="TR Spor",tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" group-title="TR Spor",Fast&FunBox
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
@@ -363,6 +363,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="TR Eğlence",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
