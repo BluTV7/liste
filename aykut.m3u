@@ -329,7 +329,7 @@ https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/960px-Kabel_eins_Logo_2015.svg.png" group-title="Germany",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/ZDFneo_2017.svg" group-title="Germany",ZDF Neo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/deathinparadise/images/3/33/ZDFneo-grau-cropped.png/revision/latest?cb=20180213025516&path-prefix=de" group-title="Germany",ZDF Neo
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/zdfneo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="Germany",RTL Zwei
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtlnitrohd/playlist.m3u8
@@ -367,6 +367,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="TR Eğlence",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
