@@ -56,7 +56,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" group-title="TR Haber",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR Haber",SZC
-https://trn03.tulix.tv/gt-sozcu-tv/playlist.m3u8
+http://87.121.104.29:1855/sozcu/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="TR Haber",Ulusal TV
 https://trn03.tulix.tv/gt-ulusaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="TR Haber",Halk TV
@@ -127,6 +127,8 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eMVet6ojwuicUknHWeg0Of7yv4Gsdt07" group-title="TR Spor",tabii Spor 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",CosmoSports
+http://45.74.244.181:3800/izle/cosmosports.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" group-title="TR Spor",Fast&FunBox
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="TR Spor",Trace Sport Stars
@@ -169,6 +171,18 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" group-title="TR Film",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema TV
+https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRW.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema Aksiyon
+https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema Yerli
+http://45.74.244.181:3800/izle/sinemayerli.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema Komedi
+https://heyheey.denek1544.workers.dev/izle/sinematvkomedi-57.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema Aile
+https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGU=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema 1001
+https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIDEwMDE=.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" group-title="TR Film",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" group-title="TR Film",FilmScreen
@@ -203,6 +217,8 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" group-title="TR Belgesel",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",BBC Earth
+https://heyheey.denek1544.workers.dev/izle/bbcearthhd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="TR Belgesel",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/960px-DMAX_-_Logo_2016.svg.png" group-title="TR Belgesel",DMAX
@@ -367,6 +383,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="TR Eğlence",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
