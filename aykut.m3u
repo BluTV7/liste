@@ -403,6 +403,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/rtpi_m.png" group-title="Portugal",RTP Internacional
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17pVGlKSuMwRa5Q_O3505UbKRUQN6ehNr" group-title="Kurdish",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Al-Saudia_TV_Logo_2018.png" group-title="Arabic",Saudi TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/fullhd_946269c528b9c02926a56044d8220afd574b31f7.png" group-title="Arabic",SBC
@@ -491,6 +493,7 @@ https://boncuktv.seni-elime-gecirirsem.workers.dev/medeniyyettv
 https://boncuktv.seni-elime-gecirirsem.workers.dev/atvaz
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
