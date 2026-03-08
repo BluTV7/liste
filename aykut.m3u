@@ -19,8 +19,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-logo="https://public.flourish.studio/uploads/f4c8dc45-ee56-403e-a5be-225565ca3a9e.png" group-title="TR Haber",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="test",A Haber
-https://cdn-eu.tivimivi.com/streams/123/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1d1FHiWWYXK-bWywpXp06rBw-VgFyoebl" group-title="TR Haber",TRT Haber
 http://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png" group-title="TR Ulusal",Kanal 7
@@ -39,10 +37,6 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TR Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" group-title="test",CNN Türk
-https://cdn-eu.tivimivi.com/streams/114/master.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="test",A Para
-http://87.121.104.29:1855/aparayt/stream.m3u8
 #EXTINF:-1 tvg-logo="https://im.haberturk.com/assets/images/haberturk-tv-logo.png" group-title="TR Haber",HaberTürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1PGpecOWCDSpUY-RqSwyYjnBRjtlgRxAo" group-title="TR Haber",TGRT Haber
@@ -55,8 +49,6 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" group-title="TR Haber",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="test",SZC
-http://87.121.104.29:1855/sozcu/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="TR Haber",Ulusal TV
 https://trn03.tulix.tv/gt-ulusaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="TR Haber",Halk TV
@@ -77,8 +69,6 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1tOMKDXxUION9-PN6aca1o4ItFzc91tY-" group-title="TR Ulusal",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/960px-Show_MAX_logo.svg.png" group-title="test",Show Max
-https://cdn-eu.tivimivi.com/streams/112/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17kHPx2CcotXR4FAOL9hfikoCVwddogqZ" group-title="TR Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png" group-title="TR Haber",Akit TV
@@ -91,16 +81,12 @@ https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.bikanal.com/frontend/img/favicon.png" group-title="TR Ulusal",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1 tvg-logo="https://i.dsmart.com.tr/kanallar/sifir-tv.png" group-title="test",Sıfır TV
-http://87.121.104.29:1855/sifirtvyt/stream.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" group-title="TR Spor",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" group-title="TR Spor",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" group-title="TR Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="test",beIN Sports Haber
-http://87.121.104.29:1855/bshaberyt/stream.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OBdyl8daNtoPCkH0ZWstWsb5r5oyF0Ot" group-title="TR Spor",Tivibu Spor
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1KedmjM_DFajZtSqXzLvVegEuVuHtDjFx" group-title="TR Spor",A Spor
@@ -155,8 +141,6 @@ https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
 https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
 #EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/logo-trace-latina-2-scaled.jpg" group-title="TR Müzik",Trace Latina
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trace_Brasil_logo.PNG/224px-Trace_Brasil_logo.PNG" group-title="test",Trace Brasil
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/bc54a543-79d5-451f-9519-8fe712dcc751/3.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=12lO_Buye2MTQouk1QiZEvBnTbKwmygXx" group-title="TR Müzik",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/s-z/stingraydjazz/logos/3p-logo._CB485941422_.png" group-title="TR Müzik",Stingray Djazz
@@ -173,18 +157,8 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" group-title="TR Film",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema TV
-https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRW.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema Aksiyon
-https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24=.m3u8
 #EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Yerli
 http://45.74.244.181:3800/izle/sinemayerli.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema Komedi
-https://heyheey.denek1544.workers.dev/izle/sinematvkomedi-57.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema Aile
-https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGU=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema 1001
-https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIDEwMDE=.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" group-title="TR Film",FX
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" group-title="TR Film",FilmScreen
@@ -491,14 +465,32 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="test",A Haber
+https://cdn-eu.tivimivi.com/streams/123/master.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" group-title="test",CNN Türk
+https://cdn-eu.tivimivi.com/streams/114/master.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="test",A Para
+http://87.121.104.29:1855/aparayt/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="test",SZC
+http://87.121.104.29:1855/sozcu/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/960px-Show_MAX_logo.svg.png" group-title="test",Show Max
+https://cdn-eu.tivimivi.com/streams/112/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.dsmart.com.tr/kanallar/sifir-tv.png" group-title="test",Sıfır TV
+http://87.121.104.29:1855/sifirtvyt/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="test",beIN Sports Haber
+http://87.121.104.29:1855/bshaberyt/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trace_Brasil_logo.PNG/224px-Trace_Brasil_logo.PNG" group-title="test",Trace Brasil
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/bc54a543-79d5-451f-9519-8fe712dcc751/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema TV
+https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRW.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema Aksiyon
+https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema Komedi
+https://heyheey.denek1544.workers.dev/izle/sinematvkomedi-57.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema Aile
+https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGU=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="test",Sinema 1001
+https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIDEwMDE=.m3u8
 
 
 
