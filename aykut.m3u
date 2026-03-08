@@ -395,6 +395,22 @@ https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 https://n2.cdn.jetstre.am/session/638dae3e45b142c549b29ae7d36df54a/sz/atvijf/wowza4/live/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.campaignadcloud.com/wp-content/uploads/CAC-NetworkLogo-Xite-1.png" group-title="Netherlands",Xite
 https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/1280px-TF1_logo_2006.svg.png" group-title="France",TF 1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/France_2_2018_%28Icon%29_%28Transparent%29.svg/revision/latest/scale-to-width-down/250?cb=20211113191222" group-title="France",France 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/17/France_3_%282018%2C_%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9_%D1%81_%D1%81%D0%B8%D0%BD%D0%B5%D0%B9_%D1%82%D0%BE%D1%87%D0%BA%D0%BE%D0%B9%29.svg/revision/latest/scale-to-width-down/250?cb=20200824180050&path-prefix=ru" group-title="France",France 3
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/France_4_2018_%28Icon%29_%28Transparent%29.svg/revision/latest/scale-to-width-down/250?cb=20211113191444" group-title="France",France 4
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/France_5_2018_%28Icon%29_%28Transparent%29.svg/revision/latest/scale-to-width-down/250?cb=20211113191556" group-title="France",France 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/RTL9-logo-2023.svg/1280px-RTL9-logo-2023.svg.png" group-title="France",RTL 9
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/ab1fr/logos/3p-logo._CB560363284_.png" group-title="France",AB 1
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/3840px-TF1_S%C3%A9ries_Films.svg.png" group-title="France",TF 1 Séries Films
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Logo_TV5Monde_2025.svg/960px-Logo_TV5Monde_2025.svg.png" group-title="France",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="France",MTV
@@ -509,6 +525,7 @@ https://boncuktv.seni-elime-gecirirsem.workers.dev/medeniyyettv
 https://boncuktv.seni-elime-gecirirsem.workers.dev/atvaz
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
