@@ -269,8 +269,6 @@ http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SL
 https://trn03.tulix.tv/gt-ictimaitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png/revision/latest?cb=20240301211143" group-title="Azerbaijan",Xəzər TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/500px-Azad_Azerbaycan_TV_logosu.png" group-title="test",Azad TV
-https://boncuktv.seni-elime-gecirirsem.workers.dev/atvaz
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/ARB_Azerbaijan_Logo.png" group-title="Azerbaijan",ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/14701/logo_256_1659592190.png" group-title="Azerbaijan",Kanal S
@@ -453,8 +451,6 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
-#EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
-http://87.121.104.29:1855/somine/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="test",A Haber
 https://cdn-eu.tivimivi.com/streams/123/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" group-title="test",CNN Türk
@@ -491,7 +487,10 @@ https://heyheey.denek1544.workers.dev/izle/bbcearthhd.m3u8
 https://boncuktv.seni-elime-gecirirsem.workers.dev/cbc
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1dn-gAbPuuR-4lXXqNLOwTMfZlvYBRXQE" group-title="test",Mədəniyyət TV
 https://boncuktv.seni-elime-gecirirsem.workers.dev/medeniyyettv
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/500px-Azad_Azerbaycan_TV_logosu.png" group-title="test",Azad TV
+https://boncuktv.seni-elime-gecirirsem.workers.dev/atvaz
+#EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
+http://87.121.104.29:1855/somine/stream.m3u8
 
 
 
