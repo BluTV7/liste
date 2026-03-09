@@ -39,6 +39,8 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TR Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" group-title="TR Haber",CNN Türk
+https://goldvod.site/live/hpgdiscoo/123456/501.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="TR Haber",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
 #EXTINF:-1 tvg-logo="https://im.haberturk.com/assets/images/haberturk-tv-logo.png" group-title="TR Haber",HaberTürk
@@ -171,14 +173,28 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" group-title="TR Eğlence",TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" group-title="TR Film",tabii TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",DiziSmart Premium
+https://goldvod.site/live/hpgdiscoo/123456/373.m3u8
+#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema TV
+https://goldvod.site/live/hpgdiscoo/123456/315.m3u8
+#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Aksiyon
+https://goldvod.site/live/hpgdiscoo/123456/312.m3u8
 #EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Yerli
 http://45.74.244.181:3800/izle/sinemayerli.m3u8
+#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Komedi
+https://goldvod.site/live/hpgdiscoo/123456/311.m3u8
+#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Aile
+https://goldvod.site/live/hpgdiscoo/123456/308.m3u8
+#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema 1001
+https://goldvod.site/live/hpgdiscoo/123456/174.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" group-title="TR Film",FX
 https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" group-title="TR Film",Epic Drama
+https://goldvod.site/live/hpgdiscoo/123456/479.m3u8
 #EXTINF:-1 tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" group-title="TR Film",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" group-title="TR Film",tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/960px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title="TR Dinî",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png/revision/latest/scale-to-width-down/250?cb=20241025151812" group-title="TR Dinî",Sunna TV
@@ -211,6 +227,8 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="TR Belgesel",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/960px-DMAX_-_Logo_2016.svg.png" group-title="TR Belgesel",BBC Earth
+https://goldvod.site/live/hpgdiscoo/123456/454.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/960px-DMAX_-_Logo_2016.svg.png" group-title="TR Belgesel",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EIbviB64pv2YBWFfgp5aHZaoUgahgSwE" group-title="TR Belgesel",Yaban TV
@@ -219,6 +237,8 @@ https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1GJDuT-JPW6_12zkHYKX2LjkYPRIvj3i6" group-title="TR Belgesel",Discovery Channel
 http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1GJDuT-JPW6_12zkHYKX2LjkYPRIvj3i6" group-title="TR Belgesel",Viasat History
+https://goldvod.site/live/hpgdiscoo/123456/445.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="TR Belgesel",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1IHVDMyrvXYPxEysiUrcjXKqRUwpkq2X0" group-title="TR Belgesel",DocuBox
@@ -525,8 +545,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" group-title="test",CNN Türk
-https://cdn-eu.tivimivi.com/streams/114/master.m3u8
+
 
 
 
