@@ -153,7 +153,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 #EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/0b9ebaaa-3ac4-4c72-aaef-49926c9fc3e6/-/preview/1000x500/-/format/auto/InFast_landscape-white.png" group-title="TR Eğlence",Infast
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://calama.bbcstudios.com//api/assets/57ec6499-2b71-4063-985f-d512c46b069b" group-title="TR Eğlence",BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1SrFzf9Xlt1bvjsb0YzPao7VVjFyKDjne" group-title="TR Eğlence",BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" group-title="TR Eğlence",TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master_1080.m3u8
@@ -541,6 +541,7 @@ https://boncuktv.seni-elime-gecirirsem.workers.dev/medeniyyettv
 https://boncuktv.seni-elime-gecirirsem.workers.dev/atvaz
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
