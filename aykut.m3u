@@ -245,7 +245,7 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 https://trn03.tulix.tv/CNN-International/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" group-title="International News",Al Jazeera International
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="International News",EuroNews English
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11CaTdAEJov2iBQaXVp29KzZjETuIHe8i" group-title="International News",EuroNews English
 https://dash3.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=17nNdbx9eHHWPxaBju8AuS20ds7FAd9Ql" group-title="International News",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
@@ -465,7 +465,7 @@ https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Q1J8AUNj7FqZevcfeJB_haOX6kTtuCk5" group-title="Arabic",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Arabic",DW Arabia
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1BgogVmqtLR2Ptgvwrv5uZljm-u2EM57i" group-title="Arabic",DW Arabia
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="Arabic",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
@@ -541,6 +541,7 @@ https://boncuktv.seni-elime-gecirirsem.workers.dev/medeniyyettv
 https://boncuktv.seni-elime-gecirirsem.workers.dev/atvaz
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
