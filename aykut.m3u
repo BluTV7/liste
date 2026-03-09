@@ -39,8 +39,6 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TR Haber",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" group-title="TR Haber",CNN Türk
-https://goldvod.site/live/hpgdiscoo/123456/501.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA" group-title="TR Haber",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
 #EXTINF:-1 tvg-logo="https://im.haberturk.com/assets/images/haberturk-tv-logo.png" group-title="TR Haber",HaberTürk
@@ -101,12 +99,6 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Coh7VYsZJIMZn6Ctqr-LUZsIkWGJclhR" group-title="TR Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="TR Spor",beIN Sports 1 SD
-https://goldvod.site/live/hpgdiscoo/123456/178.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="TR Spor",beIN Sports 1 HD
-https://goldvod.site/live/hpgdiscoo/123456/149.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="TR Spor",beIN Sports Haber
-https://goldvod.site/live/hpgdiscoo/123456/355.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OBdyl8daNtoPCkH0ZWstWsb5r5oyF0Ot" group-title="TR Spor",Tivibu Spor
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1KedmjM_DFajZtSqXzLvVegEuVuHtDjFx" group-title="TR Spor",A Spor
@@ -119,12 +111,6 @@ https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/162e1e_040f6479dc6a49cd8644a2f0eba086e0~mv2.png/v1/fill/w_102,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TJK%20TV%20Logo%20Design.png" group-title="TR Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xspptq1458425622.png" group-title="TR Spor",Eurosport 2
-https://goldvod.site/live/hpgdiscoo/123456/167.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1u01u91643201009.png" group-title="TR Spor",S Sport
-https://goldvod.site/live/hpgdiscoo/123456/168.m3u8
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/nrrvxp1643201048.png" group-title="TR Spor",S Sport 2
-https://goldvod.site/live/hpgdiscoo/123456/169.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OyzpSvf2c2ARkbWtJcXbNyjrG2gf0_OT" group-title="TR Spor",tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1nE-JDeiAVSJZoTO96IJ-QbdFaIH9zDfp" group-title="TR Spor",tabii Spor 1
@@ -185,24 +171,10 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" group-title="TR Eğlence",TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/x/8J/246018/logo.png?v=638671714151122933" group-title="TR Film",DiziSmart Premium
-https://goldvod.site/live/hpgdiscoo/123456/373.m3u8
-#EXTINF:-1 tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png" group-title="TR Film",Sinema TV
-https://goldvod.site/live/hpgdiscoo/123456/315.m3u8
-#EXTINF:-1 tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png" group-title="TR Film",Sinema Aksiyon
-https://goldvod.site/live/hpgdiscoo/123456/312.m3u8
 #EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Yerli
 http://45.74.244.181:3800/izle/sinemayerli.m3u8
-#EXTINF:-1 tvg-logo="https://komedi.sinematv.com.tr/content/logo/SINEMATV-KOMEDI.png" group-title="TR Film",Sinema Komedi
-https://goldvod.site/live/hpgdiscoo/123456/311.m3u8
-#EXTINF:-1 tvg-logo="https://sinematvaile.com.tr/content/logo/SINEMATV-AILE.png" group-title="TR Film",Sinema Aile
-https://goldvod.site/live/hpgdiscoo/123456/308.m3u8
-#EXTINF:-1 tvg-logo="https://1001.sinematv.com.tr/content/logo/SINEMATV-1001.png" group-title="TR Film",Sinema 1001
-https://goldvod.site/live/hpgdiscoo/123456/174.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" group-title="TR Film",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838299.png" group-title="TR Film",Epic Drama
-https://goldvod.site/live/hpgdiscoo/123456/479.m3u8
 #EXTINF:-1 tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" group-title="TR Film",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" group-title="TR Film",tabii TV
@@ -225,14 +197,6 @@ https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/3840px-2024_Disney_Jr._Logo.svg.png" group-title="TR Çocuk",Disney Junior
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=13ZqCaHRRvLDaZYWOJE4stAG5Owe0Eh2A" group-title="TR Çocuk",Nick Jr.
-https://goldvod.site/live/hpgdiscoo/123456/477.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1M1qHaT7UwWrTZH3AqfEltMGE6RzDoA_8" group-title="TR Çocuk",Nickelodeon
-https://goldvod.site/live/hpgdiscoo/123456/453.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1dcA3GGJnK2EBDKhp-70djJZVdVekBJI_" group-title="TR Çocuk",Cartoonito
-https://goldvod.site/live/hpgdiscoo/123456/499.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="TR Çocuk",Cartoon Network
-https://goldvod.site/live/hpgdiscoo/123456/92.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Minika_go_new.png/revision/latest?cb=20200518122805" group-title="TR Çocuk",minika GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/MinikaCocuklogo.png" group-title="TR Çocuk",minika Çocuk
@@ -243,16 +207,8 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" group-title="TR Belgesel",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1dlu_9l0qCLoeACCJXxCvzjjGnQrYMjcZ" group-title="TR Belgesel",beIN İZ
-https://goldvod.site/live/hpgdiscoo/123456/173.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1i1Bk_yPNudHtJcjyeemBqHNVKJHyjtaa" group-title="TR Belgesel",BBC Earth
-https://goldvod.site/live/hpgdiscoo/123456/454.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="TR Belgesel",Viasat History
-https://goldvod.site/live/hpgdiscoo/123456/445.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="TR Belgesel",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" group-title="TR Belgesel",Investigation Discovery
-https://goldvod.site/live/hpgdiscoo/123456/371.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/960px-DMAX_-_Logo_2016.svg.png" group-title="TR Belgesel",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1EIbviB64pv2YBWFfgp5aHZaoUgahgSwE" group-title="TR Belgesel",Yaban TV
@@ -567,6 +523,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+
 
 
 
