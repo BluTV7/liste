@@ -267,6 +267,10 @@ https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1855707650.m3u8
 #EXTINF:-1 tvg-logo="https://kibrisgenctvcom.teimg.com/kibrisgenctv-com/uploads/2023/11/logo-190x90-01.png" group-title="Cyprus",Genç TV
 https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w730274761.m3u8
+#EXTINF:-1 tvg-logo="https://kuzeykibrissmart.tv/tvlogos/256/tv2020.png?v2" group-title="Cyprus",TV 2020
+https://edge.kuzeykibrissmart.tv/tv2020/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://kuzeykibrissmart.tv/tvlogos/256/kanalt.png?v2" group-title="Cyprus",Kanal T
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://kibristv.com/foto/ktv.png" group-title="Cyprus",Kıbrıs TV
 https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1UJVRYUbbnChoVxoH37dofaLVyWgXvVx-" group-title="Azerbaijan",Az TV
@@ -543,6 +547,7 @@ https://boncuktv.seni-elime-gecirirsem.workers.dev/medeniyyettv
 https://boncuktv.seni-elime-gecirirsem.workers.dev/atvaz
 #EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
 http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
