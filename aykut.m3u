@@ -284,7 +284,7 @@ https://edge.kuzeykibrissmart.tv/brt2hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ada-tv-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="Cyprus",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1855707650.m3u8
 #EXTINF:-1 tvg-logo="https://kibrisgenctvcom.teimg.com/kibrisgenctv-com/uploads/2023/11/logo-190x90-01.png" group-title="Cyprus",Genç TV
-https://yayin1.canlitv.fun/canlitv/genctv.stream/chunklist_w730274761.m3u8
+https://streams.uzunmuhalefet.com/stream/d1e7e32f-d06d-42db-997c-acdb9b0971f5.m3u8
 #EXTINF:-1 tvg-logo="https://kuzeykibrissmart.tv/tvlogos/256/tv2020.png?v2" group-title="Cyprus",TV 2020
 https://edge.kuzeykibrissmart.tv/tv2020/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://kuzeykibrissmart.tv/tvlogos/256/kanalt.png?v2" group-title="Cyprus",Kanal T
@@ -527,30 +527,7 @@ https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.sm
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Lp1PB8UIBtKq2-2rVK8UIyMU_hFPNsR-" group-title="test",CNN Türk
 https://cdn-eu.tivimivi.com/streams/114/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="test",beIN Sports Haber
-http://87.121.104.29:1855/bshaberyt/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trace_Brasil_logo.PNG/224px-Trace_Brasil_logo.PNG" group-title="test",Trace Brasil
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/bc54a543-79d5-451f-9519-8fe712dcc751/3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema TV
-https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRW.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema Aksiyon
-https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIEFrc2l5b24=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema Komedi
-https://heyheey.denek1544.workers.dev/izle/sinematvkomedi-57.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema Aile
-https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGU=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",Sinema 1001
-https://dsfvcg.denek1544.workers.dev/channel/U2luZW1hIFRWIDEwMDE=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="test",BBC Earth
-https://heyheey.denek1544.workers.dev/izle/bbcearthhd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png" group-title="test",CBC TV
-https://boncuktv.seni-elime-gecirirsem.workers.dev/cbc
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1dn-gAbPuuR-4lXXqNLOwTMfZlvYBRXQE" group-title="test",Mədəniyyət TV
-https://boncuktv.seni-elime-gecirirsem.workers.dev/medeniyyettv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/500px-Azad_Azerbaycan_TV_logosu.png" group-title="test",Azad TV
-https://boncuktv.seni-elime-gecirirsem.workers.dev/atvaz
-#EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Somine-TV.png" group-title="test",Şömine TV
-http://87.121.104.29:1855/somine/stream.m3u8
+
 
 
 
