@@ -185,23 +185,23 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=187YGUI-MY1_uWmTfprRQEdUGlb6eJtae" group-title="TR Eğlence",TRT Genç
 https://tv-trtgenc.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",DiziSmart Premium
+#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/x/8J/246018/logo.png?v=638671714151122933" group-title="TR Film",DiziSmart Premium
 https://goldvod.site/live/hpgdiscoo/123456/373.m3u8
-#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema TV
+#EXTINF:-1 tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV.png" group-title="TR Film",Sinema TV
 https://goldvod.site/live/hpgdiscoo/123456/315.m3u8
-#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Aksiyon
+#EXTINF:-1 tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png" group-title="TR Film",Sinema Aksiyon
 https://goldvod.site/live/hpgdiscoo/123456/312.m3u8
 #EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Yerli
 http://45.74.244.181:3800/izle/sinemayerli.m3u8
-#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Komedi
+#EXTINF:-1 tvg-logo="https://komedi.sinematv.com.tr/content/logo/SINEMATV-KOMEDI.png" group-title="TR Film",Sinema Komedi
 https://goldvod.site/live/hpgdiscoo/123456/311.m3u8
-#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema Aile
+#EXTINF:-1 tvg-logo="https://sinematvaile.com.tr/content/logo/SINEMATV-AILE.png" group-title="TR Film",Sinema Aile
 https://goldvod.site/live/hpgdiscoo/123456/308.m3u8
-#EXTINF:-1 tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI.png" group-title="TR Film",Sinema 1001
+#EXTINF:-1 tvg-logo="https://1001.sinematv.com.tr/content/logo/SINEMATV-1001.png" group-title="TR Film",Sinema 1001
 https://goldvod.site/live/hpgdiscoo/123456/174.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" group-title="TR Film",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1yU9lVVMvBv2f_kNCQlWnYHQQ4ls5iYyE" group-title="TR Film",Epic Drama
+#EXTINF:-1 tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838299.png" group-title="TR Film",Epic Drama
 https://goldvod.site/live/hpgdiscoo/123456/479.m3u8
 #EXTINF:-1 tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png" group-title="TR Film",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
@@ -567,6 +567,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+
 
 
 
