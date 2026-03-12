@@ -29,7 +29,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="BEYAZ.TV.HD.tr" tvg-logo="https://beyaztv.com.tr/images/logo.png" group-title="TR Ulusal",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="TR Haber",TV 100
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png" group-title="TR Haber",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
 #EXTINF:-1 tvg-id="ÜLKE.TV.HD.tr" tvg-logo="https://ulketvcom.teimg.com/ulketv-com/uploads/2024/11/ulke-tv-w.png" group-title="TR Haber",Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
@@ -59,7 +59,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1aRLVEbjAOeshPq_GRQClgdOqGvpgrszY" group-title="TR Haber",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" group-title="TR Haber",TH Türk Haber
+#EXTINF:-1 tvg-id="TURKHABERTV.tr" tvg-logo="https://drive.google.com/uc?export=view&id=14mnH90Uc56_BHzc2gi-DJmJ0B5A2rthL" group-title="TR Haber",TH Türk Haber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="ULUSAL.KANAL.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png" group-title="TR Haber",Ulusal TV
 https://trn03.tulix.tv/gt-ulusaltv/index.m3u8
@@ -73,7 +73,7 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtturk.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trtturk_logo.png" group-title="TR Ulusal",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.krttv.com.tr/storage/files/images/2024/04/17/logo-at-2x-3j7l.png" group-title="TR Haber",KRT TV
+#EXTINF:-1 tvg-id="KRTTV.tr" tvg-logo="https://i.krttv.com.tr/storage/files/images/2024/04/17/logo-at-2x-3j7l.png" group-title="TR Haber",KRT TV
 https://trn03.tulix.tv/gt-krt--tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR Haber",SZC
 https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
@@ -87,7 +87,7 @@ https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-id="BENGÜ.TÜRK.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838732.png" group-title="TR Haber",BengüTürk
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1URJZszrsD218BLYBcJZnD4BYbXE1MtxW" group-title="TR Ulusal",GZT
+#EXTINF:-1 tvg-id="GZTTV.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1URJZszrsD218BLYBcJZnD4BYbXE1MtxW" group-title="TR Ulusal",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tytturk.com/uploads/medya/tyt-logo.png" group-title="TR Ulusal",TYT Türk
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
@@ -219,7 +219,7 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" group-title="TR Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1GJDuT-JPW6_12zkHYKX2LjkYPRIvj3i6" group-title="TR Belgesel",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1GJDuT-JPW6_12zkHYKX2LjkYPRIvj3i6" group-title="TR Belgesel",Discovery Channel
 http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69
 #EXTINF:-1 tvg-id="CGTN.9.DOCUMENTARY.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="TR Belgesel",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
@@ -533,6 +533,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+
 
 
 
