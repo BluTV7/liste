@@ -209,7 +209,7 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" group-title="TR Belgesel",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="TR Belgesel",National Geographic Wild
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="TR Belgesel",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY.ID.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" group-title="TR Belgesel",Investigation Discovery
 http://109.61.81.147:1935/cdn7/4026/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
@@ -257,7 +257,7 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="A.NEWS.HD.tr" tvg-logo="https://i.tmgrup.com.tr/anews/site/v2/i/a-news-logo.png" group-title="International News",A News
 https://trn03.tulix.tv/gt-anews/index.m3u8
-#EXTINF:-1 tvg-id="BBC.WORLD.NEWS.tr" tvg-logo="https://lh3.googleusercontent.com/d/1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg=w2048-h2048#.png" group-title="International News",BBC News
+#EXTINF:-1 tvg-id="BBCWorldNews.tr" tvg-logo="https://lh3.googleusercontent.com/d/1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg=w2048-h2048#.png" group-title="International News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="TRT.WORLD.HD.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" group-title="International News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
@@ -265,7 +265,7 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 https://trn03.tulix.tv/CNN-International/index.m3u8
 #EXTINF:-1 tvg-id="AL.JAZEERA.INTERNATIONAL.tr" tvg-logo="https://drive.google.com/uc?export=view&id=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" group-title="International News",Al Jazeera International
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11CaTdAEJov2iBQaXVp29KzZjETuIHe8i" group-title="International News",EuroNews English
+#EXTINF:-1 tvg-id="EURONEWS.tr" tvg-logo="https://drive.google.com/uc?export=view&id=11CaTdAEJov2iBQaXVp29KzZjETuIHe8i" group-title="International News",EuroNews English
 https://dash3.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-id="FRANCE.24.HD-EN.tr" tvg-logo="https://drive.google.com/uc?export=view&id=17nNdbx9eHHWPxaBju8AuS20ds7FAd9Ql" group-title="International News",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
@@ -533,6 +533,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+
 
 
 
