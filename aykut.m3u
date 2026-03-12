@@ -131,7 +131,7 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 http://45.74.244.181:3800/izle/cosmosports.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1QYBmwCLRDPsl5Z7lnyPd2Y9HPBs1gN2l" group-title="TR Spor",Fast&FunBox
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="TR Spor",Trace Sport Stars
+#EXTINF:-1 tvg-id="TRACE.SPORT.STARS.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png" group-title="TR Spor",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRACE.URBAN.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="TR Müzik",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -181,9 +181,9 @@ https://saran-live.ercdn.net/fx/index.m3u8
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1ltDrY18Ge64y07DYmifA_CpkmdwHyiJL" group-title="TR Film",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/960px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title="TR Dinî",Quran TV
+#EXTINF:-1 tvg-id="SAUDI.QURAN.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/960px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" group-title="TR Dinî",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png/revision/latest/scale-to-width-down/250?cb=20241025151812" group-title="TR Dinî",Sunna TV
+#EXTINF:-1 tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png/revision/latest/scale-to-width-down/250?cb=20241025151812" group-title="TR Dinî",Sunna TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1226JeQyuRi3NQplr-WUgmBjc315JMIJz" group-title="TR Dinî",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
@@ -209,7 +209,7 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" group-title="TR Belgesel",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="TR Belgesel",National Geographic Wild
+#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.WILD.tr" tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" group-title="TR Belgesel",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY.ID.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/250px-InvestigationDiscoveryLogo2020.svg.png" group-title="TR Belgesel",Investigation Discovery
 http://109.61.81.147:1935/cdn7/4026/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
@@ -533,6 +533,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+
 
 
 
