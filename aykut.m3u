@@ -411,9 +411,9 @@ https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/superrtl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Germany",Disney Channel
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1280px-Deluxe_Music_Logo_2019.svg.png" group-title="Germany",Deluxe Music
+#EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1280px-Deluxe_Music_Logo_2019.svg.png" group-title="Germany",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://www.bremische-landesmedienanstalt.de/uploads/user_upload/DMF_Blau.png" group-title="Germany",Deutsches Musik Fernsehen
+#EXTINF:-1 tvg-id="DMF.de" tvg-logo="https://www.bremische-landesmedienanstalt.de/uploads/user_upload/DMF_Blau.png" group-title="Germany",Deutsches Musik Fernsehen
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://play-lh.googleusercontent.com/r85UUNKQhLswfCKY5_H-3k-g9P2GOejXeR70I-e-cYmInVYVc4ybx1ljQkXI0MARzVa6" group-title="Germany",N-TV
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/ntv/playlist.m3u8
@@ -533,6 +533,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+
 
 
 
