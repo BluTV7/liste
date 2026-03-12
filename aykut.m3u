@@ -15,7 +15,7 @@ https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
 #EXTINF:-1 tvg-id="360.HD.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/360-tr.png/revision/latest?cb=20220108145523" group-title="TR Ulusal",360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1MrNjdIU_AQbMHohSYHs-rAw9B6bTmJ2w" group-title="TR Haber",CNBC-e
+#EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1MrNjdIU_AQbMHohSYHs-rAw9B6bTmJ2w" group-title="TR Haber",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-logo="https://public.flourish.studio/uploads/f4c8dc45-ee56-403e-a5be-225565ca3a9e.png" group-title="TR Haber",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
@@ -53,7 +53,7 @@ https://trn03.tulix.tv/gt-ekoturk/index.m3u8
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="TELE1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="TR Haber",Tele 1
 https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3u8
-#EXTINF:-1 tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/m/ox/246255/logo.png?v=638671716160495384" group-title="TR Haber",Ekol TV
+#EXTINF:-1 tvg-id="Ekol TV.tr" tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/m/ox/246255/logo.png?v=638671716160495384" group-title="TR Haber",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Flash_haber_tv_2025.png" group-title="TR Haber",Flash Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
@@ -95,7 +95,7 @@ https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-logo="https://i.dsmart.com.tr/kanallar/sifir-tv.png" group-title="TR Ulusal",Sıfır TV
 https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" group-title="TR Spor",Ekol Sports
+#EXTINF:-1 tvg-id="Ekol Sports.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1JLHxSyaZeVjbHxYgo8C8SjZUkH5UHYpq" group-title="TR Spor",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-id="HTSPOR.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1AyMyTb9UtcfKpg3fECLKT5dJbUfQA5NF" group-title="TR Spor",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
@@ -533,6 +533,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+
 
 
 
