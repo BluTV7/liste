@@ -67,7 +67,7 @@ https://trn03.tulix.tv/gt-ulusaltv/index.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="TEVE2.HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ae/Tv2_logo_%282026%29.png" group-title="TR Ulusal",TV2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.acunmedya.com/media/vr5jy1bo/content-tv8-5-logo.png" group-title="TR Ulusal",TV8 5
+#EXTINF:-1 tvg-id="TV8,5.tr" tvg-logo="https://www.acunmedya.com/media/vr5jy1bo/content-tv8-5-logo.png" group-title="TR Ulusal",TV8 5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1 tvg-id="TRT.AVAZ.HD.tr" tvg-logo="https://www.trtavaz.com.tr/Content/img/trt-avaz-logo.png" group-title="TR Ulusal",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
@@ -185,11 +185,11 @@ https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png/revision/latest/scale-to-width-down/250?cb=20241025151812" group-title="TR Dinî",Sunna TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1226JeQyuRi3NQplr-WUgmBjc315JMIJz" group-title="TR Dinî",Vav TV
+#EXTINF:-1 tvg-id="VAVTV.tr" tvg-logo="https://drive.google.com/uc?export=view&id=1226JeQyuRi3NQplr-WUgmBjc315JMIJz" group-title="TR Dinî",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://semerkand.com.tr/wp-content/uploads/2017/05/semerkand-tv-slider-logo.png" group-title="TR Dinî",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" group-title="TR Dinî",Diyanet TV
+#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" group-title="TR Dinî",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TRT_Diyanet_%C3%87ocuk_logo.svg/1280px-TRT_Diyanet_%C3%87ocuk_logo.svg.png" group-title="TR Dinî",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1080.m3u8
@@ -533,6 +533,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+
 
 
 
