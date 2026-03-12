@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/42s3t41616613172.png" group-title="TR Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/kurtlar-vadisi/images/c/ca/Kanal_D_logo.svg/revision/latest/thumbnail/width/360/height/360?cb=20240501101427&path-prefix=tr" group-title="TR Ulusal",Kanal D
+#EXTINF:-1 tvg-id="KANAL.D.HD.tr" tvg-logo="https://static.wikia.nocookie.net/kurtlar-vadisi/images/c/ca/Kanal_D_logo.svg/revision/latest/thumbnail/width/360/height/360?cb=20240501101427&path-prefix=tr" group-title="TR Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/1280px-Show_TV_logo.svg.png" group-title="TR Ulusal",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
@@ -539,6 +539,7 @@ http://stream.tvtap.net:8081/live/nl-npo1.stream/playlist.m3u8
 https://npo-nl-ams-p18-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzM0MDk3MDcsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZGNlZWY4OCJ9.xV0wHVhxWv8pvJDa0SPoBsuPBDpmi5NgwZxzq4t8lHc/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/dash/npo-1-audio_nld=128000-85119516307327.dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="Romania",TVR International
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
+
 
 
 
