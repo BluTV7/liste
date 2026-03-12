@@ -377,23 +377,23 @@ https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/960px-Kabel_eins_Logo_2015.svg.png" group-title="Germany",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/deathinparadise/images/3/33/ZDFneo-grau-cropped.png/revision/latest?cb=20180213025516&path-prefix=de" group-title="Germany",ZDF Neo
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://static.wikia.nocookie.net/deathinparadise/images/3/33/ZDFneo-grau-cropped.png/revision/latest?cb=20180213025516&path-prefix=de" group-title="Germany",ZDF Neo
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/zdfneo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="Germany",RTL Zwei
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="Germany",RTL Zwei
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtlnitrohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sat1Gold.svg/960px-Sat1Gold.svg.png" group-title="Germany",Sat.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png" group-title="Germany",Nitro
+#EXTINF:-1 tvg-id="NITRO.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png" group-title="Germany",Nitro
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1JB0_B2dGWdmI_EvWR9ANcq3aqapzhLH9" group-title="Germany",3sat
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 tvg-logo="https://www.20six.fr/wp-content/uploads/2024/10/arte-logo.png" group-title="Germany",Arte Deutsch
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://www.20six.fr/wp-content/uploads/2024/10/arte-logo.png" group-title="Germany",Arte Deutsch
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_oneTV_DE_2016.png" group-title="Germany",One
 https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/3840px-DMAX_-_Logo_2016.svg.png" group-title="Germany",DMAX
+#EXTINF:-1 tvg-id="DMAX.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/3840px-DMAX_-_Logo_2016.svg.png" group-title="Germany",DMAX
 https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Phoenix_Logo_2018_ohne_Claim.svg/3840px-Phoenix_Logo_2018_ohne_Claim.svg.png" group-title="Germany",Phoenix
+#EXTINF:-1 tvg-id="PHOENIX.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Phoenix_Logo_2018_ohne_Claim.svg/3840px-Phoenix_Logo_2018_ohne_Claim.svg.png" group-title="Germany",Phoenix
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c82dd5b3-b0d8-44e8-b11d-a50e55b7b9de/dhnrghv-156f86bf-1b8a-4c8a-9df0-7bdbd30056fb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODJkZDViMy1iMGQ4LTQ0ZTgtYjExZC1hNTBlNTViN2I5ZGUvZGhucmdodi0xNTZmODZiZi0xYjhhLTRjOGEtOWRmMC03YmRiZDMwMDU2ZmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2qLEInewVUKD4NUMGRyOA5rpjinR2miZ9z4GCPW5Pe8" group-title="Germany",Comedy Central
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
@@ -533,6 +533,7 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+
 
 
 
