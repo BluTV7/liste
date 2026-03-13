@@ -535,8 +535,8 @@ https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.sm
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="Test",TVR International
+http://115.42.71.7:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/logo_web.png" group-title="Radyo",Süper FM
 https://25503.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1uwZN1pIVscfUjEIziL4L7BLwpCutCmzw" group-title="Radyo",JoyTürk FM
