@@ -537,18 +537,21 @@ https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LI
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="Radyo",Süper FM
+https://25553.live.streamtheworld.com/JOY_TURK128AAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="Radyo",JoyTürk FM
+https://25503.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1_L-8hnFWsTTZwQHwjBeTwISzvwhA49Nu" group-title="Radyo",Kafa Radyo
 https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.showradyo.com.tr/logo.png" group-title="Radyo",Show Radyo
 https://listen.radyotvonline.net/hls/play/adsonline_showradyo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="Radyo",Metro FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.mp3
+https://28513.live.streamtheworld.com/METRO_FM128AAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="Radyo",Joy FM
+https://23623.live.streamtheworld.com/JOY_FM128AAC.aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="Radyo",Virgin Radio
 https://28503.live.streamtheworld.com/VIRGIN_RADIO128AAC.aac
+
 
 
 
