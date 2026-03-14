@@ -284,6 +284,8 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1vjRpgMvOYc-2zYLJ0YsOaFVb19uLHXMG" group-title="International News",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",Arirang
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1hIeD4EhQPvWKfhp2EyBSXxjhlhg7tk5M" group-title="Cyprus",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1jUw8oJuQcA4NIXpEZIy5PRxTymnzF8AB" group-title="Cyprus",BRT 2
@@ -369,15 +371,20 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1280px-ZDF_logo.svg.png" group-title="Germany",ZDF
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/RTL_DE_Logo_2021_orange_rot_blau.png" group-title="Germany",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1_-q5kCQ2oI8kgzwKAuLoUmy-bC5juX0o" group-title="Germany",Vox
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
 #EXTINF:-1 tvg-id="SAT.1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Neues_Sat._1_Logo_transparent.png" group-title="Germany",Sat.1
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://achtfeld.de/wp-content/uploads/2025/07/ProSieben_logo.svg.png" group-title="Germany",ProSieben
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/960px-Kabel_eins_Logo_2015.svg.png" group-title="Germany",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://static.wikia.nocookie.net/deathinparadise/images/3/33/ZDFneo-grau-cropped.png/revision/latest?cb=20180213025516&path-prefix=de" group-title="Germany",ZDF Neo
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="Germany",RTL Zwei
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sat1Gold.svg/960px-Sat1Gold.svg.png" group-title="Germany",Sat.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="NITRO.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Nitro_TV-Logo_2017.png" group-title="Germany",Nitro
@@ -394,11 +401,11 @@ https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c82dd5b3-b0d8-44e8-b11d-a50e55b7b9de/dhnrghv-156f86bf-1b8a-4c8a-9df0-7bdbd30056fb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODJkZDViMy1iMGQ4LTQ0ZTgtYjExZC1hNTBlNTViN2I5ZGUvZGhucmdodi0xNTZmODZiZi0xYjhhLTRjOGEtOWRmMC03YmRiZDMwMDU2ZmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2qLEInewVUKD4NUMGRyOA5rpjinR2miZ9z4GCPW5Pe8" group-title="Germany",Comedy Central
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/N24Doku.png" group-title="Germany",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HR.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HR_Dachmarke_2023.svg/1280px-HR_Dachmarke_2023.svg.png" group-title="Germany",HR Fernsehen
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 #EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://logos-world.net/wp-content/uploads/2022/07/KiKA-Logo.png" group-title="Germany",KiKA
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 
@@ -414,13 +421,26 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/RT_DE_Logo_2021.png" group-title="Germany",RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NDR_Dachmarke.png" group-title="Germany",BR
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NDR_Dachmarke.png" group-title="Germany",NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="Germany",WDR
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HR_Dachmarke_2023.svg/1280px-HR_Dachmarke_2023.svg.png" group-title="Germany",HR Fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="Germany",RBB
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="Germany",RBB
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-id="RiC.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/RiC_Logo_2014.png" group-title="Germany",RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/NPO_1_logo_2014.png" group-title="Netherlands",NPO 1
 http://62.131.195.211:8086/12.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/BVN_Logo.png" group-title="Netherlands",BVN TV
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="Netherlands",AT 5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="https://www.campaignadcloud.com/wp-content/uploads/CAC-NetworkLogo-Xite-1.png" group-title="Netherlands",Xite
 https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/1280px-TF1_logo_2006.svg.png" group-title="France",TF 1
@@ -478,6 +498,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Arabic",MBC
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Al-Ekhbariya_TV_2024.png/revision/latest/scale-to-width-down/300?cb=20241026003157" group-title="Arabic",Ekhbariya TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvwpbackup.blob.core.windows.net/content-cache/2022/11/Al-Rayyan-Channel-logo-Full-White.png" group-title="Arabic",Al Rayyan
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1oMV_K0mAlB5tUJ_uXk6lAXYIvv8NfuRc" group-title="Arabic",Al Jazeera Documentary
@@ -514,6 +536,8 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://free-png.ru/wp-content/uploads/2020/09/Pervyj-kanal-01.png" group-title="Russia",Perviy kanal
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/RTR_Planeta_Logo.png" group-title="Russia",RTR Planeta
+https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="Russia",CGTN Russkij
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1CDuzjHfQyYUuPajpeUa_KfzwZHneZHbs" group-title="Ukraine",Freedom
@@ -549,53 +573,22 @@ https://boncuktvv.siringa-yetmedi.workers.dev/atvaz
 https://boncuktvv.siringa-yetmedi.workers.dev/medeniyyettv
 #EXTINF:-1 tvg-logo="https://www.ayaztv.com/logo/logo-h.png" group-title="test",Ayaz TV
 https://boncuktvv.siringa-yetmedi.workers.dev/ayaztv
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-logo="https://drive.google.com/uc?export=view&id=1LtEPJ9PhY5i9Mn7CuoLIJYey0KmuN1C3" group-title="Germany",Toggo
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/superrtl/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",AT 5
-https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",Ekhbariya TV
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",Arirang
-https://dash3.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/N24Doku.png" group-title="test",N24 Doku
-https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 #EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://play-lh.googleusercontent.com/r85UUNKQhLswfCKY5_H-3k-g9P2GOejXeR70I-e-cYmInVYVc4ybx1ljQkXI0MARzVa6" group-title="test",N-TV
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",RTR Planeta
-https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",Trace UK
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=cgXMgPi7oBS
-
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://play-lh.googleusercontent.com/r85UUNKQhLswfCKY5_H-3k-g9P2GOejXeR70I-e-cYmInVYVc4ybx1ljQkXI0MARzVa6" group-title="test",N-TV
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
-
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://play-lh.googleusercontent.com/r85UUNKQhLswfCKY5_H-3k-g9P2GOejXeR70I-e-cYmInVYVc4ybx1ljQkXI0MARzVa6" group-title="test",N-TV
 https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
-
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://play-lh.googleusercontent.com/r85UUNKQhLswfCKY5_H-3k-g9P2GOejXeR70I-e-cYmInVYVc4ybx1ljQkXI0MARzVa6" group-title="test",N-TV
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",WDR
-https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://static.wikia.nocookie.net/deathinparadise/images/3/33/ZDFneo-grau-cropped.png/revision/latest?cb=20180213025516&path-prefix=de" group-title="test",ZDF Neo
-https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/RTL_DE_Logo_2021_orange_rot_blau.png" group-title="test",RTL
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NDR_Dachmarke.png" group-title="test",NDR
-https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="test",RTL Zwei
-https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1_-q5kCQ2oI8kgzwKAuLoUmy-bC5juX0o" group-title="test",Vox
-https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+
+
+
+
+
+
 
 
 
