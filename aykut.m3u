@@ -523,16 +523,6 @@ https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.sm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1920px-Antena_1_Logo_%282022-present%29.svg.png" group-title="Romania",Antena 1
 https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://mediacdns.karnaval.com/media/station_media/1/logos/logo_web.png" group-title="Radyo",Süper FM
 https://25503.live.streamtheworld.com/SUPER_FM128AAC.aac
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1uwZN1pIVscfUjEIziL4L7BLwpCutCmzw" group-title="Radyo",JoyTürk FM
@@ -559,52 +549,53 @@ https://boncuktvv.siringa-yetmedi.workers.dev/atvaz
 https://boncuktvv.siringa-yetmedi.workers.dev/medeniyyettv
 #EXTINF:-1 tvg-logo="https://www.ayaztv.com/logo/logo-h.png" group-title="test",Ayaz TV
 https://boncuktvv.siringa-yetmedi.workers.dev/ayaztv
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/RTL_DE_Logo_2021_orange_rot_blau.png" group-title="Germany",RTL
-https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtlhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1_-q5kCQ2oI8kgzwKAuLoUmy-bC5juX0o" group-title="Germany",Vox
-https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/vox/playlist.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://static.wikia.nocookie.net/deathinparadise/images/3/33/ZDFneo-grau-cropped.png/revision/latest?cb=20180213025516&path-prefix=de" group-title="Germany",ZDF Neo
-https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/zdfneo/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="Germany",RTL Zwei
-https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/rtlnitrohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/N24Doku.png" group-title="Germany",N24 Doku
-https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/n24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NDR_Dachmarke.png" group-title="Germany",NDR
-https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/ndr/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-logo="https://drive.google.com/uc?export=view&id=1LtEPJ9PhY5i9Mn7CuoLIJYey0KmuN1C3" group-title="Germany",Toggo
 https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/superrtl/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://play-lh.googleusercontent.com/r85UUNKQhLswfCKY5_H-3k-g9P2GOejXeR70I-e-cYmInVYVc4ybx1ljQkXI0MARzVa6" group-title="Germany",N-TV
-https://tv.rapidd.workers.dev/?ID=http://zx.visiona.top:8081/canada1/ntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="Netherlands",AT 5
-https://n2.cdn.jetstre.am/session/638dae3e45b142c549b29ae7d36df54a/sz/atvijf/wowza4/live/live/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",AT 5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",Ekhbariya TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",Arirang
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/N24Doku.png" group-title="test",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://play-lh.googleusercontent.com/r85UUNKQhLswfCKY5_H-3k-g9P2GOejXeR70I-e-cYmInVYVc4ybx1ljQkXI0MARzVa6" group-title="test",N-TV
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",RTR Planeta
+https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",Trace UK
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=cgXMgPi7oBS
 
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRykwNxt-vDt9IPwCf0vgNyKrGFfaGlnprTTQ&s" group-title="test",WDR
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://static.wikia.nocookie.net/deathinparadise/images/3/33/ZDFneo-grau-cropped.png/revision/latest?cb=20180213025516&path-prefix=de" group-title="test",ZDF Neo
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/RTL_DE_Logo_2021_orange_rot_blau.png" group-title="test",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NDR_Dachmarke.png" group-title="test",NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="test",RTL Zwei
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1_-q5kCQ2oI8kgzwKAuLoUmy-bC5juX0o" group-title="test",Vox
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
 
 
 
