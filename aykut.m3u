@@ -415,7 +415,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/RT_DE_Logo_2021.png" group-title="Germany",RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/838/984/png-clipart-bayerischer-rundfunk-munich-broadcasting-television-br-fernsehen-logo-bakery-miscellaneous-television.png" group-title="Germany",BR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bayerischer_Rundfunk_Logo_2023.svg/960px-Bayerischer_Rundfunk_Logo_2023.svg.png" group-title="Germany",BR
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/NDR_Dachmarke.png" group-title="Germany",NDR
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
