@@ -160,13 +160,14 @@ nav{
 </div>
 
 <script>
-// Logo ve kart navigasyonu
 const logoLink = document.querySelector(".logo a");
 const menuCards = document.querySelectorAll("nav .card");
 const channels = document.querySelectorAll(".channel");
 const channelList = document.getElementById("channelList");
 const playerContainer = document.getElementById("playerContainer");
 const player = document.getElementById("player");
+
+let currentChannelIndex = 0;
 
 // Navigasyon
 logoLink.focus();
@@ -207,26 +208,44 @@ document.addEventListener("keydown",(e)=>{
 });
 
 // Kanal tıklayınca tam ekran aç
-channels.forEach(channel=>{
+channels.forEach((channel,index)=>{
   channel.addEventListener("click",(e)=>{
     e.preventDefault();
-    const stream = channel.dataset.stream;
-    player.src = stream;
-    channelList.style.display = "none";
-    playerContainer.style.display = "block";
-    player.play();
-    player.focus();
+    currentChannelIndex = index;
+    playChannel(currentChannelIndex);
   });
 });
 
-// Geri tuşu ile kanallar listesine dön
+function playChannel(index){
+  const stream = channels[index].dataset.stream;
+  player.src = stream;
+  channelList.style.display = "none";
+  playerContainer.style.display = "block";
+  player.play();
+  player.focus();
+}
+
+// Video açıkken geri tuşu ile listeye dön
 document.addEventListener("keydown",(e)=>{
-  if(playerContainer.style.display==="block" && (e.key==="Backspace" || e.key==="Escape")){
-    e.preventDefault();
-    player.pause();
-    playerContainer.style.display="none";
-    channelList.style.display="block";
-    channels[0].focus();
+  if(playerContainer.style.display==="block"){
+    if(e.key==="Backspace" || e.key==="Escape"){
+      e.preventDefault();
+      player.pause();
+      playerContainer.style.display="none";
+      channelList.style.display="block";
+      channels[currentChannelIndex].focus();
+    } 
+    // Sol / Sağ ile kanal değiştirme
+    if(e.key==="ArrowRight"){
+      e.preventDefault();
+      currentChannelIndex = (currentChannelIndex + 1) % channels.length;
+      playChannel(currentChannelIndex);
+    }
+    if(e.key==="ArrowLeft"){
+      e.preventDefault();
+      currentChannelIndex = (currentChannelIndex - 1 + channels.length) % channels.length;
+      playChannel(currentChannelIndex);
+    }
   }
 });
 </script>
