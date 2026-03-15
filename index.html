@@ -1,1 +1,251 @@
-<!DOCTYPE html> <html lang="tr"> <head> <meta charset="UTF-8"> <title>BluTV</title> <link rel="icon" type="image/png" href="https://drive.google.com/thumbnail?id=1kvyAX1JNiORV24_BRiGXNdB7Bp14BBFG&sz=w1000"> <style> body{ margin:0; font-family:Arial, sans-serif; background-color:#2e2e41; color:white; } /* HEADER */ header{ display:flex; justify-content:space-between; align-items:center; padding:15px 30px; background:#1f1f33; } /* LOGO */ .logo img{ height:35px; } /* MENÜ */ nav{ display:flex; gap:15px; } /* KART MENÜ */ .card{ width:150px; height:45px; background:#3b3b55; border-radius:10px; display:flex; align-items:center; justify-content:center; font-size:18px; cursor:pointer; text-decoration:none; color:white; transition:0.2s; } .card:hover{ background:#4a4a6a; } /* TV FOCUS */ .card:focus{ outline:3px solid white; transform:scale(1.08); background:#4a4a6a; } /* ANA SAYFA */ .main-content{ text-align:center; margin-top:120px; } .main-content img{ width:200px; margin-bottom:20px; } .main-content h1{ font-size:48px; margin-bottom:10px; } .main-content p{ font-size:24px; color:#cccccc; } </style> </head> <body> <header> <div class="logo"> <a href="index.html"> <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000"> </a> </div> <nav> <a class="card" href="#">Filmler</a> <a class="card" href="#">Diziler</a> <a class="card" href="#">Canlı TV</a> </nav> </header> <div class="main-content"> <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000"> <h1>BluTV</h1> <p>Türkiye'nin yeni TV platformu</p> </div> </body> </html>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BluTV TV Arayüzü</title>
+
+<style>
+body{
+  margin:0;
+  font-family:Arial, sans-serif;
+  background:#2e2e41;
+  color:white;
+  overflow-x:hidden;
+}
+
+/* Üst bar */
+header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:15px 30px;
+  background:#1f1f33;
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:10;
+  box-sizing:border-box;
+}
+
+/* Logo */
+.logo img{
+  height:40px;
+  cursor:pointer;
+}
+
+/* Menü kartları */
+nav{
+  display:flex;
+  gap:15px;
+}
+
+.card{
+  width:150px;
+  height:45px;
+  background:#3b3b55;
+  border-radius:10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:18px;
+  cursor:pointer;
+  text-decoration:none;
+  color:white;
+  transition:0.2s;
+}
+
+.card:focus{
+  outline:3px solid white;
+  transform:scale(1.08);
+  background:#4a4a6a;
+}
+
+/* İçerik alanı */
+.content{
+  margin-top:90px;
+  padding:20px;
+}
+
+/* Satırlar */
+.row{
+  display:flex;
+  gap:15px;
+  margin-bottom:30px;
+  align-items:flex-start;
+  overflow-x:auto;      /* yatay scroll */
+  padding-bottom:10px;
+}
+
+.row::-webkit-scrollbar{
+  height:8px;
+}
+
+.row::-webkit-scrollbar-thumb{
+  background:#555;
+  border-radius:4px;
+}
+
+.row::-webkit-scrollbar-track{
+  background:#2e2e41;
+}
+
+.row h2{
+  width:100%;
+  margin-bottom:10px;
+}
+
+/* Poster / Item */
+.item{
+  min-width:180px;
+  height:250px;
+  background:#3b3b55;
+  border-radius:10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color:white;
+  font-size:18px;
+  cursor:pointer;
+  transition:0.2s;
+  overflow:hidden;
+  flex-shrink:0;  /* shrink etmeyi engelle */
+}
+
+.item img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  border-radius:10px;
+}
+
+.item:focus{
+  outline:3px solid #00bfff;
+  transform:scale(1.05);
+  background:#4a4a6a;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <a href="index.html">
+      <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000">
+    </a>
+  </div>
+
+  <nav>
+    <a class="card" href="#" tabindex="1">Filmler</a>
+    <a class="card" href="#" tabindex="2">Diziler</a>
+    <a class="card" href="#" tabindex="3">Canlı TV</a>
+  </nav>
+</header>
+
+<div class="content">
+
+<!-- Öne Çıkan Türk Filmleri -->
+<div class="row" id="filmler-row">
+  <h2>Öne Çıkan Türk Filmleri</h2>
+
+  <a href="https://jetfilmizle.net/film/paranormal-cuma" target="_blank" class="item" tabindex="4">
+    <img src="https://jetfilmizle.net/uploads/films/2024/p/paranormal-cuma-poster-large.webp">
+  </a>
+
+  <a href="https://jetfilmizle.net/film/cmxxiv" target="_blank" class="item" tabindex="5">
+    <img src="https://jetfilmizle.net/uploads/films/2025/c/cmxxiv-poster-large.webp">
+  </a>
+
+  <a href="https://jetfilmizle.net/film/hep-yek-loto" target="_blank" class="item" tabindex="6">
+    <img src="https://jetfilmizle.net/uploads/films/2025/h/hep-yek-loto-poster-large.webp">
+  </a>
+
+  <a href="https://www.hdfilmcehennemi.nl/sijjin-8/" target="_blank" class="item" tabindex="7">
+    <img src="https://www.hdfilmcehennemi.nl/images/list/poster/sijjin-8@2x.webp">
+  </a>
+
+  <a href="https://jetfilmizle.net/film/sag-salim-3-olu-ya-da-diri" target="_blank" class="item" tabindex="8">
+    <img src="https://jetfilmizle.net/uploads/films/2023/s/sag-salim-3-olu-ya-da-diri-poster-small.webp">
+  </a>
+
+  <a href="https://www.hdfilmcehennemi.nl/love-my-chance-1/" target="_blank" class="item" tabindex="9">
+    <img src="https://www.hdfilmcehennemi.nl/images/list/poster/love-my-chance@2x.webp">
+  </a>
+
+</div>
+
+<!-- Diziler Satırı -->
+<div class="row" id="diziler-row">
+  <h2>Diziler</h2>
+  <a href="#" class="item" tabindex="10">Dizi 1</a>
+  <a href="#" class="item" tabindex="11">Dizi 2</a>
+  <a href="#" class="item" tabindex="12">Dizi 3</a>
+  <a href="#" class="item" tabindex="13">Dizi 4</a>
+</div>
+
+<!-- Canlı TV Satırı -->
+<div class="row" id="canlitv-row">
+  <h2>Canlı TV</h2>
+  <a href="#" class="item" tabindex="14">Kanal 1</a>
+  <a href="#" class="item" tabindex="15">Kanal 2</a>
+  <a href="#" class="item" tabindex="16">Kanal 3</a>
+  <a href="#" class="item" tabindex="17">Kanal 4</a>
+</div>
+
+</div>
+
+<script>
+// Menü navigasyonu
+const menuCards = document.querySelectorAll("nav .card");
+let menuIndex = 0;
+menuCards[menuIndex].focus();
+
+document.addEventListener("keydown", (e)=>{
+  if(e.key === "ArrowRight"){
+    menuIndex = (menuIndex +1) % menuCards.length;
+    menuCards[menuIndex].focus();
+  }
+  if(e.key === "ArrowLeft"){
+    menuIndex = (menuIndex -1 + menuCards.length) % menuCards.length;
+    menuCards[menuIndex].focus();
+  }
+});
+
+// İçerik navigasyonu
+const items = document.querySelectorAll(".item");
+let itemIndex = 0;
+
+document.addEventListener("keydown", (e)=>{
+  if(e.key === "ArrowRight"){
+    if(document.activeElement.classList.contains("item")){
+      itemIndex = (itemIndex + 1) % items.length;
+      items[itemIndex].focus();
+    }
+  }
+  if(e.key === "ArrowLeft"){
+    if(document.activeElement.classList.contains("item")){
+      itemIndex = (itemIndex - 1 + items.length) % items.length;
+      items[itemIndex].focus();
+    }
+  }
+  if(e.key === "ArrowDown"){
+    const currentRow = document.activeElement.parentElement;
+    const nextRow = currentRow.nextElementSibling;
+    if(nextRow && nextRow.classList.contains("row")){
+      nextRow.querySelector(".item").focus();
+      itemIndex = Array.from(items).indexOf(nextRow.querySelector(".item"));
+    }
+  }
+  if(e.key === "ArrowUp"){
+    const currentRow = document.activeElement.parentElement;
+    const prevRow = currentRow.previousElementSibling;
+    if(prevRow && prevRow.classList.contains("row")){
+      prevRow.querySelector(".item").focus();
+      itemIndex = Array.from(items).indexOf(prevRow.querySelector(".item"));
+    }
+  }
+});
+</script>
+
+</body>
+</html>
