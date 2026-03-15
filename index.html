@@ -9,7 +9,7 @@
 body{
   margin:0;
   font-family:Arial, sans-serif;
-  background:#2e2e41; /* Orijinal arka plan rengin */
+  background:#2e2e41;
   color:white;
   overflow-x:hidden;
 }
@@ -69,7 +69,7 @@ nav{
 
 /* Satır başlığı */
 .row-title{
-  font-size:28px;
+  font-size:22px; /* Küçültüldü */
   margin-bottom:15px;
   padding-left:5px;
 }
@@ -79,7 +79,7 @@ nav{
   display:flex;
   gap:20px;
   overflow-x:auto;
-  padding-top:10px; /* Üstten çerçeve payı */
+  padding-top:10px;
   padding-bottom:20px;
 }
 
@@ -136,9 +136,8 @@ nav{
   transition:0.2s;
 }
 
-/* SEÇİLİ POSTER - HATAYI ÇÖZEN KISIM */
+/* SEÇİLİ POSTER */
 .item:focus{
-  /* outline yerine box-shadow kullanarak kesilmeyi engelledik */
   outline: none;
   box-shadow: inset 0 0 0 4px #00bfff; 
   transform:scale(1.03);
@@ -155,7 +154,7 @@ nav{
 
 <header>
   <div class="logo">
-    <a href="#">
+    <a href="https://aykut-iptv.github.io/blutv/">
       <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000">
     </a>
   </div>
@@ -172,36 +171,36 @@ nav{
 <div class="row-title">Öne Çıkan Türk Filmleri</div>
 
 <div class="row">
-  <a href="#" class="item" tabindex="4">
+  <a href="https://jetfilmizle.net/film/paranormal-cuma" target="_blank" class="item" tabindex="4">
     <img src="https://jetfilmizle.net/uploads/films/2024/p/paranormal-cuma-poster-large.webp">
     <span>Paranormal Cuma</span>
   </a>
 
-  <a href="#" class="item" tabindex="5">
+  <a href="https://jetfilmizle.net/film/cmxxiv" target="_blank" class="item" tabindex="5">
     <img src="https://jetfilmizle.net/uploads/films/2025/c/cmxxiv-poster-large.webp">
     <span>CMXXIV</span>
   </a>
 
-  <a href="#" class="item" tabindex="6">
+  <a href="https://jetfilmizle.net/film/hep-yek-loto" target="_blank" class="item" tabindex="6">
     <img src="https://jetfilmizle.net/uploads/films/2025/h/hep-yek-loto-poster-large.webp">
     <span>Hep Yek Loto</span>
   </a>
 
-  <a href="#" class="item" tabindex="7">
+  <a href="https://www.hdfilmcehennemi.nl/sijjin-8/" target="_blank" class="item" tabindex="7">
     <img src="https://www.hdfilmcehennemi.nl/images/list/poster/sijjin-8@2x.webp">
-    <span>Sijjin 8</span>
+    <span>Siccîn 8</span>
   </a>
 
-  <a href="#" class="item" tabindex="8">
+  <a href="https://jetfilmizle.net/film/sag-salim-3-olu-ya-da-diri" target="_blank" class="item" tabindex="8">
     <img src="https://jetfilmizle.net/uploads/films/2023/s/sag-salim-3-olu-ya-da-diri-poster-small.webp">
-    <span>Sağ Salim 3</span>
+    <span>Sağ Salim 3: Ölü ya da Diri</span>
   </a>
 </div>
 
 </div>
 
 <script>
-// Navigasyon scripti aynı kaldı
+// Menü navigasyonu
 const menuCards = document.querySelectorAll("nav .card");
 const items = document.querySelectorAll(".item");
 let menuIndex = 0;
