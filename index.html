@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BluTV TV Arayüzü</title>
+<title>BluTV Ana Sayfa</title>
+
 <style>
 body{
   margin:0;
@@ -34,7 +35,7 @@ header{
   transition:0.2s;
 }
 .logo a:hover, .logo a:focus{
-  transform: scale(1.05);
+  transform:scale(1.05);
 }
 .logo img{
   height:50px;
@@ -146,15 +147,14 @@ nav{
   transition:0.2s;
 }
 
-/* SEÇİLİ POSTER */
+/* Seçili poster */
 .item:focus{
   outline: none;
-  box-shadow: inset 0 0 0 4px #00bfff; 
+  box-shadow: inset 0 0 0 4px #00bfff;
   transform:scale(1.03);
   filter: brightness(1);
   z-index: 2;
 }
-
 .item:focus span{
   opacity:1;
 }
@@ -177,38 +177,40 @@ nav{
 </header>
 
 <div class="content">
-  <div class="row-title">Öne Çıkan Türk Filmleri</div>
 
-  <div class="row">
-    <a href="https://jetfilmizle.net/film/paranormal-cuma" target="_blank" class="item" tabindex="5">
-      <img src="https://jetfilmizle.net/uploads/films/2024/p/paranormal-cuma-poster-large.webp">
-      <span>Paranormal Cuma</span>
-    </a>
+<div class="row-title">Öne Çıkan Türk Filmleri</div>
 
-    <a href="https://jetfilmizle.net/film/cmxxiv" target="_blank" class="item" tabindex="6">
-      <img src="https://jetfilmizle.net/uploads/films/2025/c/cmxxiv-poster-large.webp">
-      <span>CMXXIV</span>
-    </a>
+<div class="row">
+  <a href="https://jetfilmizle.net/film/paranormal-cuma" target="_blank" class="item" tabindex="5">
+    <img src="https://jetfilmizle.net/uploads/films/2024/p/paranormal-cuma-poster-large.webp">
+    <span>Paranormal Cuma</span>
+  </a>
 
-    <a href="https://jetfilmizle.net/film/hep-yek-loto" target="_blank" class="item" tabindex="7">
-      <img src="https://jetfilmizle.net/uploads/films/2025/h/hep-yek-loto-poster-large.webp">
-      <span>Hep Yek Loto</span>
-    </a>
+  <a href="https://jetfilmizle.net/film/cmxxiv" target="_blank" class="item" tabindex="6">
+    <img src="https://jetfilmizle.net/uploads/films/2025/c/cmxxiv-poster-large.webp">
+    <span>CMXXIV</span>
+  </a>
 
-    <a href="https://www.hdfilmcehennemi.nl/sijjin-8/" target="_blank" class="item" tabindex="8">
-      <img src="https://www.hdfilmcehennemi.nl/images/list/poster/sijjin-8@2x.webp">
-      <span>Siccîn 8</span>
-    </a>
+  <a href="https://jetfilmizle.net/film/hep-yek-loto" target="_blank" class="item" tabindex="7">
+    <img src="https://jetfilmizle.net/uploads/films/2025/h/hep-yek-loto-poster-large.webp">
+    <span>Hep Yek Loto</span>
+  </a>
 
-    <a href="https://jetfilmizle.net/film/sag-salim-3-olu-ya-da-diri" target="_blank" class="item" tabindex="9">
-      <img src="https://jetfilmizle.net/uploads/films/2023/s/sag-salim-3-olu-ya-da-diri-poster-small.webp">
-      <span>Sağ Salim 3: Ölü ya da Diri</span>
-    </a>
-  </div>
+  <a href="https://www.hdfilmcehennemi.nl/sijjin-8/" target="_blank" class="item" tabindex="8">
+    <img src="https://www.hdfilmcehennemi.nl/images/list/poster/sijjin-8@2x.webp">
+    <span>Siccîn 8</span>
+  </a>
+
+  <a href="https://jetfilmizle.net/film/sag-salim-3-olu-ya-da-diri" target="_blank" class="item" tabindex="9">
+    <img src="https://jetfilmizle.net/uploads/films/2023/s/sag-salim-3-olu-ya-da-diri-poster-small.webp">
+    <span>Sağ Salim 3: Ölü ya da Diri</span>
+  </a>
+</div>
+
 </div>
 
 <script>
-// Logo ve kart navigasyonu
+// Menü ve logo navigasyonu
 const logoLink = document.querySelector(".logo a");
 const menuCards = document.querySelectorAll("nav .card");
 const items = document.querySelectorAll(".item");
@@ -243,10 +245,8 @@ document.addEventListener("keydown",(e)=>{
       items[0].focus();
     }
   }
-  if(e.key==="ArrowUp"){
-    if(document.activeElement.classList.contains("item")){
-      menuCards[menuCards.length-1].focus();
-    }
+  if(e.key==="ArrowUp" && document.activeElement.classList.contains("item")){
+    logoLink.focus();
   }
 });
 </script>
