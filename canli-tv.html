@@ -109,13 +109,42 @@ nav{
   box-shadow:0 0 0 4px #00bfff;
   transform:scale(1.05);
 }
+
+/* Video player alanı */
+#playerContainer{
+  display:none;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  margin-top:50px;
+}
+#player{
+  width:90%;
+  max-width:1280px;
+  height:720px;
+  background:black;
+}
+#backButton{
+  margin-top:10px;
+  padding:10px 20px;
+  font-size:18px;
+  border:none;
+  border-radius:8px;
+  cursor:pointer;
+  background:#3b3b55;
+  color:white;
+  transition:0.2s;
+}
+#backButton:focus{
+  outline:3px solid white;
+  transform:scale(1.05);
+}
 </style>
 </head>
 <body>
 
 <header>
   <div class="logo">
-    <!-- Ana sayfadaki ile aynı logo URL'si kullanıldı -->
     <a href="index.html" tabindex="1">
       <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000" alt="BluTV Logo">
     </a>
@@ -132,26 +161,36 @@ nav{
   <div class="row-title">Canlı TV Kanalları</div>
 
   <div class="channels">
-    <a href="https://tv-trt1.medya.trt.com.tr/master_1080.m3u8" class="channel" target="_blank" tabindex="5">
+    <a href="#" class="channel" data-src="https://tv-trt1.medya.trt.com.tr/master_1080.m3u8" tabindex="5">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/TRT1_logo.png" alt="TRT 1">
       <span>TRT 1</span>
     </a>
 
-    <a href="https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3" class="channel" target="_blank" tabindex="6">
+    <a href="#" class="channel" data-src="https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3" tabindex="6">
       <img src="https://static.wikia.nocookie.net/kurtlar-vadisi/images/c/ca/Kanal_D_logo.svg/revision/latest/thumbnail/width/360/height/360?cb=20240501101427&path-prefix=tr" alt="Kanal D">
       <span>Kanal D</span>
     </a>
   </div>
+
+  <!-- Video player -->
+  <div id="playerContainer">
+    <video id="player" controls autoplay></video>
+    <button id="backButton" tabindex="7">Kanallara Dön</button>
+  </div>
 </div>
 
 <script>
-// Logo ve kart navigasyonu
 const logoLink = document.querySelector(".logo a");
 const menuCards = document.querySelectorAll("nav .card");
 const channels = document.querySelectorAll(".channel");
+const playerContainer = document.getElementById("playerContainer");
+const player = document.getElementById("player");
+const backButton = document.getElementById("backButton");
 
+// Başlangıç focus logo
 logoLink.focus();
 
+// Yön tuşu navigasyonu
 document.addEventListener("keydown",(e)=>{
   if(e.key==="ArrowRight"){
     if(document.activeElement===logoLink) menuCards[0].focus();
@@ -185,6 +224,36 @@ document.addEventListener("keydown",(e)=>{
       menuCards[menuCards.length-1].focus();
     }
   }
+});
+
+// Kanal seçildiğinde video aç
+channels.forEach(channel => {
+  channel.addEventListener("click", () => {
+    const src = channel.getAttribute("data-src");
+    player.src = src;
+    playerContainer.style.display = "flex";
+    document.querySelector(".channels").style.display = "none";
+    player.focus();
+
+    // Tam ekran aç
+    if (player.requestFullscreen) player.requestFullscreen();
+    else if (player.webkitRequestFullscreen) player.webkitRequestFullscreen();
+    else if (player.msRequestFullscreen) player.msRequestFullscreen();
+  });
+});
+
+// Geri butonu
+backButton.addEventListener("click", () => {
+  // Fullscreen kapat
+  if (document.fullscreenElement) document.exitFullscreen();
+  else if (document.webkitFullscreenElement) document.webkitExitFullscreen();
+  else if (document.msFullscreenElement) document.msExitFullscreen();
+
+  player.pause();
+  player.src = "";
+  playerContainer.style.display = "none";
+  document.querySelector(".channels").style.display = "flex";
+  channels[0].focus();
 });
 </script>
 
