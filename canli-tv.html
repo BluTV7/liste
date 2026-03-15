@@ -28,9 +28,18 @@ header{
 }
 
 /* Logo */
+.logo a{
+  display:inline-block;
+  outline:none;
+  transition:0.2s;
+}
+.logo a:hover, .logo a:focus{
+  transform: scale(1.05);
+}
 .logo img{
   height:50px;
   cursor:pointer;
+  display:block;
 }
 
 /* Menü kartları */
@@ -106,6 +115,7 @@ nav{
 
 <header>
   <div class="logo">
+    <!-- Ana sayfadaki ile aynı logo URL'si kullanıldı -->
     <a href="index.html" tabindex="1">
       <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000" alt="BluTV Logo">
     </a>
@@ -139,7 +149,6 @@ nav{
 const logoLink = document.querySelector(".logo a");
 const menuCards = document.querySelectorAll("nav .card");
 const channels = document.querySelectorAll(".channel");
-let focusIndex = 0;
 
 logoLink.focus();
 
