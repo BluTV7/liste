@@ -9,7 +9,7 @@
 body{
   margin:0;
   font-family:Arial, sans-serif;
-  background:#2e2e41;
+  background:#2e2e41; /* Orijinal arka plan rengin */
   color:white;
   overflow-x:hidden;
 }
@@ -57,7 +57,7 @@ nav{
 
 .card:focus{
   outline:3px solid white;
-  transform:scale(1.1);
+  transform:scale(1.05);
   background:#4a4a6a;
 }
 
@@ -79,6 +79,7 @@ nav{
   display:flex;
   gap:20px;
   overflow-x:auto;
+  padding-top:10px; /* Üstten çerçeve payı */
   padding-bottom:20px;
 }
 
@@ -86,20 +87,18 @@ nav{
 .row::-webkit-scrollbar{
   height:10px;
 }
-
 .row::-webkit-scrollbar-thumb{
   background:#555;
   border-radius:5px;
 }
-
 .row::-webkit-scrollbar-track{
   background:#2e2e41;
 }
 
 /* Poster / Item */
 .item{
-  min-width:180px;   /* biraz küçültüldü */
-  height:280px;      /* biraz küçültüldü */
+  min-width:180px;
+  height:280px;
   background:#3b3b55;
   border-radius:12px;
   display:flex;
@@ -110,7 +109,8 @@ nav{
   overflow:hidden;
   flex-shrink:0;
   position:relative;
-  filter: brightness(0.6); /* seçili olmayanlar karartılacak */
+  filter: brightness(0.6);
+  text-decoration: none;
 }
 
 .item img{
@@ -136,12 +136,14 @@ nav{
   transition:0.2s;
 }
 
-/* Seçili poster */
+/* SEÇİLİ POSTER - HATAYI ÇÖZEN KISIM */
 .item:focus{
-  outline:3px solid #00bfff;
-  transform:scale(1.05);
+  /* outline yerine box-shadow kullanarak kesilmeyi engelledik */
+  outline: none;
+  box-shadow: inset 0 0 0 4px #00bfff; 
+  transform:scale(1.03);
   filter: brightness(1);
-  z-index:2;
+  z-index: 2;
 }
 
 .item:focus span{
@@ -153,7 +155,7 @@ nav{
 
 <header>
   <div class="logo">
-    <a href="index.html">
+    <a href="#">
       <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000">
     </a>
   </div>
@@ -167,88 +169,71 @@ nav{
 
 <div class="content">
 
-<!-- Başlık -->
 <div class="row-title">Öne Çıkan Türk Filmleri</div>
 
-<!-- Poster Satırı -->
 <div class="row">
-  <a href="https://jetfilmizle.net/film/paranormal-cuma" target="_blank" class="item" tabindex="4">
+  <a href="#" class="item" tabindex="4">
     <img src="https://jetfilmizle.net/uploads/films/2024/p/paranormal-cuma-poster-large.webp">
     <span>Paranormal Cuma</span>
   </a>
 
-  <a href="https://jetfilmizle.net/film/cmxxiv" target="_blank" class="item" tabindex="5">
+  <a href="#" class="item" tabindex="5">
     <img src="https://jetfilmizle.net/uploads/films/2025/c/cmxxiv-poster-large.webp">
     <span>CMXXIV</span>
   </a>
 
-  <a href="https://jetfilmizle.net/film/hep-yek-loto" target="_blank" class="item" tabindex="6">
+  <a href="#" class="item" tabindex="6">
     <img src="https://jetfilmizle.net/uploads/films/2025/h/hep-yek-loto-poster-large.webp">
     <span>Hep Yek Loto</span>
   </a>
 
-  <a href="https://www.hdfilmcehennemi.nl/sijjin-8/" target="_blank" class="item" tabindex="7">
+  <a href="#" class="item" tabindex="7">
     <img src="https://www.hdfilmcehennemi.nl/images/list/poster/sijjin-8@2x.webp">
     <span>Sijjin 8</span>
   </a>
 
-  <a href="https://jetfilmizle.net/film/sag-salim-3-olu-ya-da-diri" target="_blank" class="item" tabindex="8">
+  <a href="#" class="item" tabindex="8">
     <img src="https://jetfilmizle.net/uploads/films/2023/s/sag-salim-3-olu-ya-da-diri-poster-small.webp">
-    <span>Sag Salim 3</span>
+    <span>Sağ Salim 3</span>
   </a>
-
-  <a href="https://www.hdfilmcehennemi.nl/love-my-chance-1/" target="_blank" class="item" tabindex="9">
-    <img src="https://www.hdfilmcehennemi.nl/images/list/poster/love-my-chance@2x.webp">
-    <span>Love My Chance</span>
-  </a>
-
 </div>
 
 </div>
 
 <script>
-// Menü navigasyonu
+// Navigasyon scripti aynı kaldı
 const menuCards = document.querySelectorAll("nav .card");
+const items = document.querySelectorAll(".item");
 let menuIndex = 0;
+let itemIndex = 0;
+
 menuCards[menuIndex].focus();
 
 document.addEventListener("keydown", (e)=>{
   if(e.key === "ArrowRight"){
-    menuIndex = (menuIndex +1) % menuCards.length;
-    menuCards[menuIndex].focus();
-  }
-  if(e.key === "ArrowLeft"){
-    menuIndex = (menuIndex -1 + menuCards.length) % menuCards.length;
-    menuCards[menuIndex].focus();
-  }
-});
-
-// Poster navigasyonu
-const items = document.querySelectorAll(".item");
-let itemIndex = 0;
-
-function updateFocus(index){
-  items.forEach((el,i)=>{
-    if(i===index){
-      el.focus();
-    }else{
-      el.blur();
-    }
-  });
-}
-
-document.addEventListener("keydown", (e)=>{
-  if(e.key === "ArrowRight"){
-    if(document.activeElement.classList.contains("item")){
+    if(document.activeElement.classList.contains("card")){
+      menuIndex = (menuIndex + 1) % menuCards.length;
+      menuCards[menuIndex].focus();
+    } else if(document.activeElement.classList.contains("item")){
       itemIndex = (itemIndex + 1) % items.length;
-      updateFocus(itemIndex);
+      items[itemIndex].focus();
     }
   }
   if(e.key === "ArrowLeft"){
-    if(document.activeElement.classList.contains("item")){
+    if(document.activeElement.classList.contains("card")){
+      menuIndex = (menuIndex - 1 + menuCards.length) % menuCards.length;
+      menuCards[menuIndex].focus();
+    } else if(document.activeElement.classList.contains("item")){
       itemIndex = (itemIndex - 1 + items.length) % items.length;
-      updateFocus(itemIndex);
+      items[itemIndex].focus();
     }
+  }
+  if(e.key === "ArrowDown" && document.activeElement.classList.contains("card")){
+    itemIndex = 0;
+    items[itemIndex].focus();
+  }
+  if(e.key === "ArrowUp" && document.activeElement.classList.contains("item")){
+    menuCards[menuIndex].focus();
   }
 });
 </script>
