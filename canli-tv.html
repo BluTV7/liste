@@ -118,7 +118,9 @@ video:focus{
 
 <header>
   <div class="logo">
-    <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000">
+    <a href="index.html">
+      <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000" alt="BluTV Logo">
+    </a>
   </div>
   <nav>
     <a class="card" href="#">Filmler</a>
@@ -194,12 +196,14 @@ function playChannel(index) {
 /* Player kumanda kontrolü */
 document.addEventListener("keydown", (e) => {
   if (playerContainer.style.display === "block") {
+    // Geri tuşu ile listeye dön
     if (e.key === "Escape" || e.key === "Backspace") {
       player.pause();
       playerContainer.style.display = "none";
       channelList.style.display = "block";
       channels[currentChannelIndex].focus();
     }
+    // Yukarı/Aşağı ile kanal değiştir
     if (e.key === "ArrowDown") {
       currentChannelIndex = (currentChannelIndex + 1) % channels.length;
       playChannel(currentChannelIndex);
