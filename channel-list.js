@@ -26,7 +26,7 @@ stream:"https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3"
 
 {
 name:"ATV",
-logo:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/3840px-Atv_logo_2010.svg.png",
+logo:"https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png",
 stream:"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"
 },
 
