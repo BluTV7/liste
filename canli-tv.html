@@ -20,7 +20,7 @@ header{
   display:flex;
   justify-content:space-between;
   align-items:center;
-  padding:20px 40px;
+  padding:15px 20px;
   background:#1f1f33;
   position:fixed;
   top:0;
@@ -29,46 +29,46 @@ header{
   box-sizing:border-box;
 }
 .logo img{
-  height:50px;
+  height:40px;
 }
 
 /* Menü */
 nav{
   display:flex;
-  gap:20px;
+  gap:15px;
 }
 .card{
-  width:160px;
-  height:50px;
+  width:120px;
+  height:40px;
   background:#3b3b55;
-  border-radius:12px;
+  border-radius:10px;
   display:flex;
   align-items:center;
   justify-content:center;
-  font-size:20px;
+  font-size:16px;
   cursor:pointer;
   text-decoration:none;
   color:white;
 }
 .card:focus{
-  outline:3px solid white;
+  outline:2px solid white;
 }
 
 /* İçerik */
 .content{
-  margin-top:110px;
-  padding:30px;
+  margin-top:90px;
+  padding:20px;
 }
 .row-title{
-  font-size:28px;
-  margin-bottom:20px;
+  font-size:22px;
+  margin-bottom:15px;
 }
 
 /* Kanal grid */
 .channels{
   display:grid;
-  grid-template-columns:repeat(8,1fr);
-  gap:40px;
+  grid-template-columns:repeat(12,1fr);
+  gap:15px;
 }
 .channel{
   display:flex;
@@ -78,16 +78,16 @@ nav{
   outline:none;
 }
 .channel img{
-  width:130px;
-  height:130px;
+  width:100px;
+  height:100px;
   object-fit:contain;
-  border-radius:12px;
+  border-radius:10px;
   background:#3b3b55;
-  padding:10px;
+  padding:5px;
 }
 .channel:focus{
-  box-shadow:0 0 0 4px white;
-  border-radius:16px;
+  box-shadow:0 0 0 3px white;
+  border-radius:12px;
   transform:scale(1.05);
 }
 
@@ -172,15 +172,6 @@ channels.forEach((channel, index) => {
     currentChannelIndex = index;
     playChannel(index);
   });
-
-  /* TV kumandasında OK tuşu ile açma */
-  channel.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") {
-      e.preventDefault();
-      currentChannelIndex = index;
-      playChannel(index);
-    }
-  });
 });
 
 function playChannel(index) {
@@ -195,15 +186,12 @@ function playChannel(index) {
 /* Player kumanda kontrolü */
 document.addEventListener("keydown", (e) => {
   if (playerContainer.style.display === "block") {
-    // Geri tuşu ile listeye dön
     if (e.key === "Escape" || e.key === "Backspace") {
       player.pause();
       playerContainer.style.display = "none";
       channelList.style.display = "block";
       channels[currentChannelIndex].focus();
     }
-
-    // Yukarı/Aşağı ile kanal değiştir
     if (e.key === "ArrowDown") {
       currentChannelIndex = (currentChannelIndex + 1) % channels.length;
       playChannel(currentChannelIndex);
@@ -211,50 +199,6 @@ document.addEventListener("keydown", (e) => {
     if (e.key === "ArrowUp") {
       currentChannelIndex = (currentChannelIndex - 1 + channels.length) % channels.length;
       playChannel(currentChannelIndex);
-    }
-  }
-});
-
-/* Menü navigasyonu (isteğe bağlı) */
-const menuCards = document.querySelectorAll("nav .card");
-const logoLink = document.querySelector(".logo img");
-document.addEventListener("keydown", (e) => {
-  if (playerContainer.style.display === "block") return;
-  if (e.key === "ArrowRight") {
-    if (document.activeElement === logoLink) menuCards[0].focus();
-    else if (document.activeElement.classList.contains("card")) {
-      const idx = Array.from(menuCards).indexOf(document.activeElement);
-      if (idx + 1 < menuCards.length) menuCards[idx + 1].focus();
-      else channels[0].focus();
-    } else if (document.activeElement.classList.contains("channel")) {
-      const idx = Array.from(channels).indexOf(document.activeElement);
-      if (idx + 1 < channels.length) channels[idx + 1].focus();
-    }
-  }
-  if (e.key === "ArrowLeft") {
-    if (document.activeElement.classList.contains("card")) {
-      const idx = Array.from(menuCards).indexOf(document.activeElement);
-      if (idx > 0) menuCards[idx - 1].focus();
-      else logoLink.focus();
-    } else if (document.activeElement.classList.contains("channel")) {
-      const idx = Array.from(channels).indexOf(document.activeElement);
-      if (idx > 0) channels[idx - 1].focus();
-      else menuCards[menuCards.length - 1].focus();
-    }
-  }
-  if (e.key === "ArrowDown") {
-    if (document.activeElement === logoLink || document.activeElement.classList.contains("card")) {
-      channels[0].focus();
-    } else if (document.activeElement.classList.contains("channel")) {
-      const idx = Array.from(channels).indexOf(document.activeElement);
-      if (idx + 1 < channels.length) channels[idx + 1].focus();
-    }
-  }
-  if (e.key === "ArrowUp") {
-    if (document.activeElement.classList.contains("channel")) {
-      const idx = Array.from(channels).indexOf(document.activeElement);
-      if (idx > 0) channels[idx - 1].focus();
-      else menuCards[menuCards.length - 1].focus();
     }
   }
 });
