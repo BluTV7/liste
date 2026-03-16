@@ -78,16 +78,16 @@ nav{
   outline:none;
 }
 .channel img{
-  width:100px;
-  height:100px;
+  width:80px;
+  height:80px;
   object-fit:contain;
-  border-radius:10px;
+  border-radius:8px;
   background:#3b3b55;
-  padding:5px;
+  padding:3px;
 }
 .channel:focus{
   box-shadow:0 0 0 3px white;
-  border-radius:12px;
+  border-radius:10px;
   transform:scale(1.05);
 }
 
@@ -171,6 +171,14 @@ channels.forEach((channel, index) => {
     e.preventDefault();
     currentChannelIndex = index;
     playChannel(index);
+  });
+
+  channel.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      currentChannelIndex = index;
+      playChannel(index);
+    }
   });
 });
 
