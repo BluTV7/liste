@@ -30,13 +30,13 @@ header {
 /* LOGO */
 .logo a {
   display:inline-block;
-  outline:none;
+  outline:none; /* çerçeveyi kaldır */
   transition: transform 0.2s ease;
 }
 .logo a:hover,
 .logo a:focus {
   transform: scale(1.05);
-  outline: none; /* çerçeve engelleme */
+  outline:none; /* kesinlikle çerçeve yok */
 }
 .logo img {
   height:40px;
@@ -213,6 +213,7 @@ document.addEventListener("keydown",(e)=>{
       channelList.style.display="block";
       channels[currentChannelIndex].focus();
     }
+    // **YUKARI = önceki kanal, AŞAĞI = sonraki kanal**
     if(e.key==="ArrowDown"){
       currentChannelIndex = (currentChannelIndex + 1) % channels.length;
       playChannel(currentChannelIndex);
