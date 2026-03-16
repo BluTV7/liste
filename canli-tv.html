@@ -1,31 +1,130 @@
 <!DOCTYPE html>
 <html lang="tr">
-
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Canlı TV</title>
 <style>
-body{margin:0;font-family:Arial,sans-serif;background:#2e2e41;color:white;overflow-x:hidden;}
-header{display:flex;justify-content:space-between;align-items:center;padding:15px 20px;background:#1f1f33;position:fixed;top:0;width:100%;z-index:10;box-sizing:border-box;}
-.logo a{display:inline-block;outline:none;transition: transform 0.2s ease;}
-.logo a:hover,.logo a:focus{transform: scale(1.05);}
-.logo img{height:40px;cursor:pointer;display:block;}
-nav{display:flex;gap:15px;}
-.card{width:120px;height:40px;background:#3b3b55;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;cursor:pointer;text-decoration:none;color:white;}
-.card:focus{outline:2px solid white;}
-.content{margin-top:90px;padding:20px;}
-.row-title{font-size:22px;margin-bottom:15px;}
-.channels{display:grid;grid-template-columns:repeat(12,1fr);gap:10px;}
-.channel{display:flex;flex-direction:column;align-items:center;cursor:pointer;outline:none;}
-.channel img{width:80px;height:80px;object-fit:contain;border-radius:8px;background:#3b3b55;padding:3px;}
-.channel:focus{box-shadow:0 0 0 3px white;border-radius:10px;transform:scale(1.05);}
-#playerContainer{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:black;z-index:1000;cursor:none;}
-#player{width:100%;height:100%;background:black;}
-video:focus{outline:none;}
+body {
+  margin:0;
+  font-family:Arial, sans-serif;
+  background:#2e2e41;
+  color:white;
+  overflow-x:hidden;
+}
+
+/* HEADER */
+header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:15px 20px;
+  background:#1f1f33;
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:10;
+  box-sizing:border-box;
+}
+
+/* LOGO */
+.logo a {
+  display:inline-block;
+  outline:none;
+  transition: transform 0.2s ease;
+}
+.logo a:hover,
+.logo a:focus {
+  transform: scale(1.05);
+  outline: none; /* çerçeve engelleme */
+}
+.logo img {
+  height:40px;
+  cursor:pointer;
+  display:block;
+}
+
+/* MENU */
+nav {
+  display:flex;
+  gap:15px;
+}
+.card {
+  width:120px;
+  height:40px;
+  background:#3b3b55;
+  border-radius:10px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:16px;
+  cursor:pointer;
+  text-decoration:none;
+  color:white;
+}
+.card:focus {
+  outline:2px solid white;
+}
+
+/* CONTENT */
+.content {
+  margin-top:90px;
+  padding:20px;
+}
+.row-title {
+  font-size:22px;
+  margin-bottom:15px;
+}
+
+/* KANAL GRID */
+.channels {
+  display:grid;
+  grid-template-columns:repeat(12,1fr);
+  gap:10px;
+}
+.channel {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  cursor:pointer;
+  outline:none;
+}
+.channel img {
+  width:80px;
+  height:80px;
+  object-fit:contain;
+  border-radius:8px;
+  background:#3b3b55;
+  padding:3px;
+}
+.channel:focus {
+  box-shadow:0 0 0 3px white;
+  border-radius:10px;
+  transform:scale(1.05);
+}
+
+/* PLAYER */
+#playerContainer {
+  display:none;
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:black;
+  z-index:1000;
+  cursor:none;
+}
+#player {
+  width:100%;
+  height:100%;
+  background:black;
+}
+video:focus {
+  outline:none;
+}
 </style>
 </head>
-
 <body>
 
 <header>
@@ -102,7 +201,7 @@ function playChannel(index){
   channelList.style.display="none";
   playerContainer.style.display="block";
   player.play();
-  player.controls=false;
+  player.controls=false; // kontrolleri gizle
 }
 
 /* Player kumanda kontrolü */
