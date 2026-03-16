@@ -1,268 +1,265 @@
 <!DOCTYPE html>
+
 <html lang="tr">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Canlı TV</title>
+
 <style>
+
 body{
-  margin:0;
-  font-family:Arial, sans-serif;
-  background:#2e2e41;
-  color:white;
-  overflow-x:hidden;
+margin:0;
+font-family:Arial, sans-serif;
+background:#2e2e41;
+color:white;
+overflow-x:hidden;
 }
 
 /* Üst bar */
+
 header{
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  padding:20px 40px;
-  background:#1f1f33;
-  position:fixed;
-  top:0;
-  width:100%;
-  z-index:10;
-  box-sizing:border-box;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 40px;
+background:#1f1f33;
+position:fixed;
+top:0;
+width:100%;
+z-index:10;
+box-sizing:border-box;
 }
 
-/* Logo */
-.logo a{
-  display:inline-block;
-  outline:none;
-  transition:0.2s;
-}
-.logo a:hover, .logo a:focus{
-  transform: scale(1.05);
-}
 .logo img{
-  height:50px;
-  cursor:pointer;
-  display:block;
+height:50px;
 }
 
-/* Menü kartları */
+/* Menü */
+
 nav{
-  display:flex;
-  gap:20px;
+display:flex;
+gap:20px;
 }
+
 .card{
-  width:160px;
-  height:50px;
-  background:#3b3b55;
-  border-radius:12px;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  font-size:20px;
-  cursor:pointer;
-  text-decoration:none;
-  color:white;
-  transition:0.2s;
+width:160px;
+height:50px;
+background:#3b3b55;
+border-radius:12px;
+display:flex;
+align-items:center;
+justify-content:center;
+font-size:20px;
+cursor:pointer;
+text-decoration:none;
+color:white;
 }
+
 .card:focus{
-  outline:3px solid white;
-  transform:scale(1.05);
-  background:#4a4a6a;
+outline:3px solid white;
 }
 
-/* İçerik alanı */
+/* İçerik */
+
 .content{
-  margin-top:100px;
-  padding:30px;
+margin-top:110px;
+padding:30px;
 }
 
-/* Canlı TV logoları */
+.row-title{
+font-size:28px;
+margin-bottom:20px;
+}
+
+/* Kanal grid */
+
 .channels{
-  display:flex;
-  gap:40px;
-  flex-wrap:wrap;
-  margin-top:30px;
+display:grid;
+grid-template-columns:repeat(8,1fr);
+gap:40px;
 }
 
 .channel{
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  cursor:pointer;
-  outline:none;
-  transition:0.2s;
+display:flex;
+flex-direction:column;
+align-items:center;
+cursor:pointer;
+outline:none;
 }
+
 .channel img{
-  width:100px;
-  height:100px;
-  object-fit:contain;
-  border-radius:12px;
-  background:#3b3b55;
-  padding:10px;
+width:130px;
+height:130px;
+object-fit:contain;
+border-radius:12px;
+background:#3b3b55;
+padding:10px;
 }
 
-/* Seçili kanal - beyaz çerçeve, yuvarlatılmış */
 .channel:focus{
-  box-shadow:0 0 0 4px white;
-  transform:scale(1.05);
-  border-radius:16px;
+box-shadow:0 0 0 4px white;
+border-radius:16px;
+transform:scale(1.05);
 }
 
-/* Video tam ekran */
+/* Player */
+
 #playerContainer{
-  display:none;
-  position:fixed;
-  top:0;
-  left:0;
-  width:100%;
-  height:100%;
-  background:black;
-  z-index:1000;
+display:none;
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:black;
+z-index:1000;
 }
-#playerContainer video{
-  width:100%;
-  height:100%;
-  object-fit:contain;
-  background:black;
+
+#player{
+width:100%;
+height:100%;
+background:black;
 }
+
 </style>
+
 </head>
+
 <body>
 
 <header>
-  <div class="logo">
-    <a href="index.html" tabindex="1">
-      <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000" alt="BluTV Logo">
-    </a>
-  </div>
 
-  <nav>
-    <a class="card" href="index.html" tabindex="2">Filmler</a>
-    <a class="card" href="#" tabindex="3">Diziler</a>
-    <a class="card" href="#" tabindex="4">Canlı TV</a>
-  </nav>
+<div class="logo">
+<img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000">
+</div>
+
+<nav>
+<a class="card" href="#">Filmler</a>
+<a class="card" href="#">Diziler</a>
+<a class="card" href="#">Canlı TV</a>
+</nav>
+
 </header>
 
 <div class="content" id="channelList">
-  <div class="row-title">Canlı TV Kanalları</div>
 
-  <div class="channels">
-    <a href="#" class="channel" data-stream="https://tv-trt1.medya.trt.com.tr/master_1080.m3u8" tabindex="5">
-      <img src="https://r2.thesportsdb.com/images/media/channel/logo/42s3t41616613172.png" alt="TRT 1">
-    </a>
+<div class="row-title">Canlı TV</div>
 
-    <a href="#" class="channel" data-stream="https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3" tabindex="6">
-      <img src="https://upload.wikimedia.org/wikipedia/tr/archive/4/4e/20240406161353%21Kanal_D.png" alt="Kanal D">
-    </a>
-  </div>
+<div class="channels" id="channels"></div>
+
 </div>
 
-<!-- Video oynatıcı -->
 <div id="playerContainer">
-  <video id="player" controls autoplay></video>
+<video id="player" controls autoplay></video>
 </div>
+
+<script src="channel-list.js"></script>
 
 <script>
-const logoLink = document.querySelector(".logo a");
-const menuCards = document.querySelectorAll("nav .card");
-const channels = document.querySelectorAll(".channel");
-const channelList = document.getElementById("channelList");
-const playerContainer = document.getElementById("playerContainer");
-const player = document.getElementById("player");
 
-let currentChannelIndex = 0;
+const container=document.getElementById("channels");
+const player=document.getElementById("player");
+const playerContainer=document.getElementById("playerContainer");
+const channelList=document.getElementById("channelList");
 
-// Navigasyon kanallar ve menü
-logoLink.focus();
-document.addEventListener("keydown",(e)=>{
-  if(playerContainer.style.display==="block") return; // video açıkken kanal listesi navigasyon kapalı
-  if(e.key==="ArrowRight"){
-    if(document.activeElement===logoLink) menuCards[0].focus();
-    else if(document.activeElement.classList.contains("card")) {
-      const idx = Array.from(menuCards).indexOf(document.activeElement);
-      if(idx+1<menuCards.length) menuCards[idx+1].focus();
-      else channels[0].focus();
-    } else if(document.activeElement.classList.contains("channel")) {
-      const idx = Array.from(channels).indexOf(document.activeElement);
-      if(idx+1<channels.length) channels[idx+1].focus();
-    }
-  }
-  if(e.key==="ArrowLeft"){
-    if(document.activeElement.classList.contains("card")) {
-      const idx = Array.from(menuCards).indexOf(document.activeElement);
-      if(idx>0) menuCards[idx-1].focus();
-      else logoLink.focus();
-    } else if(document.activeElement.classList.contains("channel")) {
-      const idx = Array.from(channels).indexOf(document.activeElement);
-      if(idx>0) channels[idx-1].focus();
-      else menuCards[menuCards.length-1].focus();
-    }
-  }
-  if(e.key==="ArrowDown"){
-    if(document.activeElement===logoLink || document.activeElement.classList.contains("card")){
-      channels[0].focus();
-    } else if(document.activeElement.classList.contains("channel")){
-      const idx = Array.from(channels).indexOf(document.activeElement);
-      if(idx+1<channels.length) channels[idx+1].focus();
-    }
-  }
-  if(e.key==="ArrowUp"){
-    if(document.activeElement.classList.contains("channel")){
-      const idx = Array.from(channels).indexOf(document.activeElement);
-      if(idx>0) channels[idx-1].focus();
-      else menuCards[menuCards.length-1].focus();
-    }
-  }
+let channels;
+let currentChannelIndex=0;
+
+
+/* Kanal listesini oluştur */
+
+channelData.forEach((ch,index)=>{
+
+const a=document.createElement("a");
+a.href="#";
+a.className="channel";
+a.dataset.stream=ch.stream;
+a.tabIndex=index+5;
+
+const img=document.createElement("img");
+img.src=ch.logo;
+
+a.appendChild(img);
+container.appendChild(a);
+
 });
 
-// Kanal tıklayınca tam ekran aç
+
+channels=document.querySelectorAll(".channel");
+
+
+/* Kanal aç */
+
 channels.forEach((channel,index)=>{
-  channel.addEventListener("click",(e)=>{
-    e.preventDefault();
-    currentChannelIndex = index;
-    playChannel(currentChannelIndex);
-  });
+
+channel.addEventListener("click",(e)=>{
+
+e.preventDefault();
+
+currentChannelIndex=index;
+
+playChannel(index);
+
 });
+
+});
+
 
 function playChannel(index){
-  const stream = channels[index].dataset.stream;
-  player.src = stream;
-  channelList.style.display = "none";
-  playerContainer.style.display = "block";
-  player.play();
-  player.focus();
+
+const stream=channels[index].dataset.stream;
+
+player.src=stream;
+
+channelList.style.display="none";
+
+playerContainer.style.display="block";
+
+player.play();
+
 }
 
-// Video açıkken geri tuşu ve ses / kanal geçişi
+
+/* Kumanda kontrol */
+
 document.addEventListener("keydown",(e)=>{
-  if(playerContainer.style.display==="block"){
-    // Geri tuşu ile listeye dön
-    if(e.key==="Backspace" || e.key==="Escape"){
-      e.preventDefault();
-      player.pause();
-      playerContainer.style.display="none";
-      channelList.style.display="block";
-      channels[currentChannelIndex].focus();
-    } 
-    // Yukarı/Aşağı ile kanal değiştir
-    if(e.key==="ArrowDown"){
-      e.preventDefault();
-      currentChannelIndex = (currentChannelIndex + 1) % channels.length;
-      playChannel(currentChannelIndex);
-    }
-    if(e.key==="ArrowUp"){
-      e.preventDefault();
-      currentChannelIndex = (currentChannelIndex - 1 + channels.length) % channels.length;
-      playChannel(currentChannelIndex);
-    }
-    // Sağ / Sol ile ses ayarı
-    if(e.key==="ArrowRight"){
-      e.preventDefault();
-      player.volume = Math.min(player.volume + 0.05,1);
-    }
-    if(e.key==="ArrowLeft"){
-      e.preventDefault();
-      player.volume = Math.max(player.volume - 0.05,0);
-    }
-  }
+
+if(playerContainer.style.display==="block"){
+
+if(e.key==="Escape" || e.key==="Backspace"){
+
+player.pause();
+
+playerContainer.style.display="none";
+
+channelList.style.display="block";
+
+channels[currentChannelIndex].focus();
+
+}
+
+if(e.key==="ArrowDown"){
+
+currentChannelIndex=(currentChannelIndex+1)%channels.length;
+
+playChannel(currentChannelIndex);
+
+}
+
+if(e.key==="ArrowUp"){
+
+currentChannelIndex=(currentChannelIndex-1+channels.length)%channels.length;
+
+playChannel(currentChannelIndex);
+
+}
+
+}
+
 });
+
 </script>
 
 </body>
