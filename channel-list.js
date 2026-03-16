@@ -12,4 +12,10 @@ logo:"https://upload.wikimedia.org/wikipedia/tr/archive/4/4e/20240406161353%21Ka
 stream:"https://demiroren.daioncdn.net/kanald/kanald.m3u8"
 }
 
+{
+name:"Show TV",
+logo:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/250px-Show_TV_logo.svg.png",
+stream:"https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3"
+} 
+
 ];
