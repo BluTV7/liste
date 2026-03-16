@@ -28,8 +28,21 @@ header{
   z-index:10;
   box-sizing:border-box;
 }
-.logo img{
+
+/* Logo */
+.logo a {
+  display:inline-block;
+  outline:none;
+  transition: transform 0.2s ease;
+}
+.logo a:hover,
+.logo a:focus {
+  transform: scale(1.05);
+}
+.logo img {
   height:40px;
+  cursor:pointer;
+  display:block;
 }
 
 /* Menü */
@@ -68,7 +81,7 @@ nav{
 .channels{
   display:grid;
   grid-template-columns:repeat(12,1fr);
-  gap:15px;
+  gap:10px; /* logolar daha yakın */
 }
 .channel{
   display:flex;
@@ -118,7 +131,7 @@ video:focus{
 
 <header>
   <div class="logo">
-    <a href="index.html">
+    <a href="index.html" tabindex="1">
       <img src="https://drive.google.com/thumbnail?id=1YeHbwiM1L3wMeDArJE-IcuNoQSm11awo&sz=w1000" alt="BluTV Logo">
     </a>
   </div>
