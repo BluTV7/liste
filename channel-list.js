@@ -21,7 +21,7 @@ stream:"https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3"
 {
 name:"Star TV",
 logo:"https://drive.google.com/uc?export=view&id=1rQDPzvVLmq4NB82ppMXVYXfdGG-kwSlL",
-stream:"https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3"
+stream:"https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3"
 }  
   
 ];
