@@ -81,7 +81,7 @@ nav{
 .channels{
   display:grid;
   grid-template-columns:repeat(12,1fr);
-  gap:10px; /* logolar daha yakın */
+  gap:10px;
 }
 .channel{
   display:flex;
@@ -148,7 +148,7 @@ video:focus{
 </div>
 
 <div id="playerContainer">
-  <video id="player" controls autoplay></video>
+  <video id="player" autoplay></video>
 </div>
 
 <script src="channel-list.js"></script>
@@ -203,7 +203,7 @@ function playChannel(index) {
   channelList.style.display = "none";
   playerContainer.style.display = "block";
   player.play();
-  document.activeElement.blur(); // imleci gizle
+  player.controls = false; // kontrolleri gizle
 }
 
 /* Player kumanda kontrolü */
@@ -224,6 +224,13 @@ document.addEventListener("keydown", (e) => {
     if (e.key === "ArrowUp") {
       currentChannelIndex = (currentChannelIndex - 1 + channels.length) % channels.length;
       playChannel(currentChannelIndex);
+    }
+    // Ses kontrolleri (isteğe bağlı)
+    if(e.key==="ArrowRight"){
+      player.volume = Math.min(player.volume+0.05,1);
+    }
+    if(e.key==="ArrowLeft"){
+      player.volume = Math.max(player.volume-0.05,0);
     }
   }
 });
