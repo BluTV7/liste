@@ -16,6 +16,12 @@ stream:"https://demiroren.daioncdn.net/kanald/kanald.m3u8"
 name:"Show TV",
 logo:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/250px-Show_TV_logo.svg.png",
 stream:"https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3"
-} 
+}, 
 
+{
+name:"Star TV",
+logo:"https://drive.google.com/uc?export=view&id=1rQDPzvVLmq4NB82ppMXVYXfdGG-kwSlL",
+stream:"https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3"
+}  
+  
 ];
