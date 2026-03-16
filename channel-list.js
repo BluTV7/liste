@@ -50,7 +50,7 @@ stream:"https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8"
 
 {
 name:"CNBC-e",
-logo:"https://drive.google.com/uc?export=view&id=1MrNjdIU_AQbMHohSYHs-rAw9B6bTmJ2w",
+logo:"https://drive.google.com/thumbnail?id=1MrNjdIU_AQbMHohSYHs-rAw9B6bTmJ2w&sz=w1000",
 stream:"https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
 },
 
@@ -68,7 +68,7 @@ stream:"https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a
 
 {
 name:"TRT Haber",
-logo:"https://drive.google.com/uc?id=1d1FHiWWYXK-bWywpXp06rBw-VgFyoebl",
+logo:"https://drive.google.com/thumbnail?id=1d1FHiWWYXK-bWywpXp06rBw-VgFyoebl&sz=w1000",
 stream:"http://tv-trthaber.medya.trt.com.tr/master_1080.m3u8"
 },
   
