@@ -8,7 +8,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" tvg-id="ATV.HD.tr" tvg-chno="25",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-logo="https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg" tvg-id="FOX.HD.tr" tvg-chno="26",NOW
-https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?id=1rQDPzvVLmq4NB82ppMXVYXfdGG-kwSlL" tvg-id="STAR.TV.HD.tr" tvg-chno="27",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
 #EXTINF:-1 tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png" tvg-id="TV8.tr" tvg-chno="28",TV8
@@ -29,3 +29,33 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://beyaztv.com.tr/images/logo.png" tvg-id="BEYAZ.TV.HD.tr" tvg-chno="36",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Yaban TV
+https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1OCj75GMKEKM6sUXdi3amX41S24rdF47w" tvg-id="TRT.BELGESEL.HD.tr" tvg-chno="190",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-id="CGTN.9.DOCUMENTARY.tr" tvg-chno="194",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
