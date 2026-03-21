@@ -29,16 +29,66 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://beyaztv.com.tr/images/logo.png" tvg-id="BEYAZ.TV.HD.tr" tvg-chno="36",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="107",NR1 Türk TV
 
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="108",PowerTürk TV
 
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="109",NR1 TV
 
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="110",Power TV
 
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="112",Mezzo
 
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="113",360TuneBox
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="114",TRT Müzik
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="115",Kral Pop TV
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="119",Trace Urban
+
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TLC.HD.tr" tvg-chno="121",TLC
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="FX.HD.tr" tvg-chno="123",FX
+https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="130",Rai Uno
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="131",TV5Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="132",France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="133",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="134",Al Jazeera Channel
+https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="138",CNBC
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="A.NEWS.HD.tr" tvg-chno="139",Bloomberg
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="140",A News
+https://trn03.tulix.tv/gt-anews/index.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="141",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TRT.WORLD.HD.tr" tvg-chno="142",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="CNN.INTERNATIONAL.tr" tvg-chno="143",CNN International
+https://trn03.tulix.tv/CNN-International/index.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="144",Al Jazeera International
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EURONEWS.tr" tvg-chno="145",EuroNews English
+https://dash3.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="FRANCE.24.HD-EN.tr" tvg-chno="146",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="DEUTSCHE.WELLE.(EN).tr" tvg-chno="147",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="NHK.WORLD.tr" tvg-chno="148",NHK World-JPN
+https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="CGTN.tr" tvg-chno="149",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="SAUDI.QURAN.tr" tvg-chno="151",Quran TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="152",Sunna TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lCyk5l3Epunft7lolDkeM8jcloDA1MWO" tvg-id="TRT.ÇOCUK.tr" tvg-chno="160",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo-1.png" tvg-id="BABY.TV.tr" tvg-chno="162",Baby TV
