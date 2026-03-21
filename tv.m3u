@@ -45,10 +45,8 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
 
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
-
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="22",Show TV
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Minika_go_new.png/revision/latest?cb=20200518122805" tvg-id="MİNİKA.GO.tr" tvg-chno="170",minika GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/540-5404050_ng-logo-white-national-geographic-logo-hd.png" tvg-id="NATIONAL.GEOGRAPHIC.HD.tr" tvg-chno="181",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/4/46/1200px-Nat_Geo_Wild_logo.png/revision/latest?cb=20230606211219&path-prefix=pl" tvg-id="NatGeoWild.tr" tvg-chno="185",National Geographic Wild
@@ -59,3 +57,5 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?app=dmax_web&ce=3
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg/revision/latest/scale-to-width-down/250?cb=20210818141459" tvg-id="CGTN.9.DOCUMENTARY.tr" tvg-chno="194",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="433",Stingray Naturescape
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
