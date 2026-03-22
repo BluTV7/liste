@@ -59,7 +59,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Q1J8AUNj7FqZevcfeJB_haOX6kTtuCk5" tvg-id="EPG_ID" tvg-chno="133",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikinews/en/thumb/0/0f/Al_Jazeera.svg/500px-Al_Jazeera.svg.png" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="134",Al Jazeera Channel
+#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2016/06/al_jazeera_arabic-logo_brandlogos.net_vbnaz.png" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="134",Al Jazeera Channel
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1O4LR-ztnbVPio142Ayzwl5OkZdtAlR2H" tvg-id="EPG_ID" tvg-chno="138",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
@@ -71,7 +71,7 @@ https://trn03.tulix.tv/gt-anews/index.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" tvg-id="TRT.WORLD.HD.tr" tvg-chno="142",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" tvg-id="CNN.INTERNATIONAL.tr" tvg-chno="143",CNN International
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/cnn-international-logo.png" tvg-id="CNN.INTERNATIONAL.tr" tvg-chno="143",CNN International
 https://trn03.tulix.tv/CNN-International/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=11dYrNPDZW6_8y5rS_f31L3JDlDS_4Ja1" tvg-id="AL.JAZEERA.INTERNATIONAL.tr" tvg-chno="144",Al Jazeera International
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
@@ -81,9 +81,9 @@ https://dash3.antik.sk/live/test_euronews/playlist.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1BgogVmqtLR2Ptgvwrv5uZljm-u2EM57i" tvg-id="DEUTSCHE.WELLE.(EN).tr" tvg-chno="147",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png" tvg-id="NHK.WORLD.tr" tvg-chno="148",NHK World-JPN
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=111kVwe4AF-kI6QYcwj3TcG2wLK-ZfwHj" tvg-id="NHK.WORLD.tr" tvg-chno="148",NHK World-JPN
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/CGTN.svg" tvg-id="CGTN.tr" tvg-chno="149",CGTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" tvg-id="CGTN.tr" tvg-chno="149",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1JXkSJzJxTRawoOyKzCTQZiz9zNi3OEuX" tvg-id="SAUDI.QURAN.tr" tvg-chno="151",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
