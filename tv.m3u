@@ -30,21 +30,23 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://beyaztv.com.tr/images/logo.png" tvg-id="BEYAZ.TV.HD.tr" tvg-chno="36",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="107",NR1 Türk TV
-
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="108",PowerTürk TV
-
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="109",NR1 TV
-
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="110",Power TV
-
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="112",Mezzo
-
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="113",360TuneBox
-
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="114",TRT Müzik
-
+https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="115",Kral Pop TV
-
+https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="118",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cUayGoUNB45Vq6AyuPzKWzh_cvRh0lNM" tvg-id="TRACE.URBAN.HD.tr" tvg-chno="119",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" tvg-id="TLC.HD.tr" tvg-chno="121",TLC
