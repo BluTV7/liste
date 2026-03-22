@@ -31,61 +31,61 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="37",TV 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="38",Ülke TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="ÜLKE.TV.HD.tr" tvg-chno="38",Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="39",TVNet
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TVNET.HD.tr" tvg-chno="39",TVNet
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="40",24
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="24.TV.tr" tvg-chno="40",24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="41",NTV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="NTV.HD.tr" tvg-chno="41",NTV
 https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?app=ntv_web&ce=3
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="43",A Para
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="A.PARA.tr" tvg-chno="43",A Para
 https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="44",HaberTürk
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="HABERTÜRK.tr" tvg-chno="44",HaberTürk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="45",TGRT Haber
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TGRT.HABER.tr" tvg-chno="45",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="46",EkoTürk
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EKOTÜRK.tr" tvg-chno="46",EkoTürk
 https://trn03.tulix.tv/gt-ekoturk/index.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="47",Haber Global
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="HABERGLOBAL.tr" tvg-chno="47",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="48",Tele 1
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TELE1.tr" tvg-chno="48",Tele 1
 https://streams.uzunmuhalefet.com/stream/edba8b19-4745-4c5c-a235-b23a06d83eda.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="49",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="50",Flash Haber
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="FlashHaberTV.tr" tvg-chno="50",Flash Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="51",Lider Haber
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="LIDERHABERTV.tr" tvg-chno="51",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="52",Ulusal TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="ULUSAL.KANAL.tr" tvg-chno="52",Ulusal TV
 https://trn03.tulix.tv/gt-ulusaltv/index.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="53",Halk TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="HalkTV.tr" tvg-chno="53",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="54",TV2
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TEVE2.HD.tr" tvg-chno="54",TV2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="55",TV8,5
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="55",TV8Buçuk
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="57",TRT Avaz
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TRT.AVAZ.HD.tr" tvg-chno="57",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="58",TRT Kurdî
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TRT.KURDİ.tr" tvg-chno="58",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="59",TH Türk Haber
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TURKHABERTV.tr" tvg-chno="59",TH Türk Haber
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="60",SZC
 https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="61",TRT Türk
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TRT.TÜRK.tr" tvg-chno="61",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="62",KRT TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="KRTTV.tr" tvg-chno="62",KRT TV
 https://trn03.tulix.tv/gt-krt--tv/index.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="64",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="65",Show Max
 https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="66",TRT 2
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TRT2.tr" tvg-chno="66",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="67",BengüTürk
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="BENGÜ.TÜRK.tr" tvg-chno="67",BengüTürk
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="68",Akit TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="AKİT.TV.tr" tvg-chno="68",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="69",GZT
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
@@ -97,25 +97,23 @@ https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 https://streams.uzunmuhalefet.com/stream/d1208b47-c4c7-48d2-8c1a-d36cdadf5467.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="73",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="74",Tivibu Spor
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TİVİBUSPOR1.tr" tvg-chno="74",Tivibu Spor
 https://trn03.tulix.tv/gt-tivibuspor1/index.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="75",HT Spor
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="HTSPOR.tr" tvg-chno="75",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="76",FB TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="FBTV.tr" tvg-chno="76",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="85",tabii Spor
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="86",TRT Spor
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TRT.SPOR.HD.tr" tvg-chno="86",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="87",TRT Spor Yıldız
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TRTSPORYILDIZ.tr" tvg-chno="87",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="88",A Spor
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="A.SPOR.tr" tvg-chno="88",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="89",TJK TV
 https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="90",Sports TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="SPORTS.TV.tr" tvg-chno="90",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="99",Trace Sport Stars
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="TRACE.SPORT.STARS.HD.tr" tvg-chno="99",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1D7mA21AEaOGYJWguk-EWoIZhvlJhyxc3" tvg-id="EPG_ID" tvg-chno="107",NR1 Türk TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
@@ -143,7 +141,7 @@ https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="125",tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="126",Sinema Yerli
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="SİNEMA.YERLİ.tr" tvg-chno="126",Sinema Yerli
 http://45.74.244.181:3800/izle/sinemayerli.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="127",FilmScreen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
@@ -153,7 +151,7 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1gA1eG2-zaWAAcQqrJwyG0l67JKa7NxSP" tvg-id="FRANCE.24.HD-FR.tr" tvg-chno="132",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Q1J8AUNj7FqZevcfeJB_haOX6kTtuCk5" tvg-id="EPG_ID" tvg-chno="133",TRT Arabi
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Q1J8AUNj7FqZevcfeJB_haOX6kTtuCk5" tvg-id="TRTArabi.tr" tvg-chno="133",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2016/06/al_jazeera_arabic-logo_brandlogos.net_vbnaz.png" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="134",Al Jazeera Channel
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
@@ -185,11 +183,11 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_Q4zV3Ex6d0B5YM1ZkwqLDbDgvSEieXR" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="155",Sunna TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="156",Vav TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="VAVTV.tr" tvg-chno="156",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="157",Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="158",Diyanet TV
+#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="DiyanetTV.tr" tvg-chno="158",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="159",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1080.m3u8
