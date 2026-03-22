@@ -87,7 +87,7 @@ https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="SAUDI.QURAN.tr" tvg-chno="151",Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="152",Sunna TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/thumbnail?id=1_Q4zV3Ex6d0B5YM1ZkwqLDbDgvSEieXR" tvg-id="AL.SUNNAH.AL.NABAWIYAH.tr" tvg-chno="152",Sunna TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1lCyk5l3Epunft7lolDkeM8jcloDA1MWO" tvg-id="TRT.ÇOCUK.tr" tvg-chno="160",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
