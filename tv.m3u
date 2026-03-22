@@ -29,23 +29,23 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://beyaztv.com.tr/images/logo.png" tvg-id="BEYAZ.TV.HD.tr" tvg-chno="36",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="107",NR1 Türk TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1D7mA21AEaOGYJWguk-EWoIZhvlJhyxc3" tvg-id="EPG_ID" tvg-chno="107",NR1 Türk TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="108",PowerTürk TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1XecYIxx6Sp3WNEIpWVp4n217xiTiMxaa" tvg-id="EPG_ID" tvg-chno="108",PowerTürk TV
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="109",NR1 TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=14xfXavYhP-5cHwXeEFNaNWvwL-BUjAe4" tvg-id="EPG_ID" tvg-chno="109",NR1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="110",Power TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1eJfQtdb2pR32UH_gzX_hNvJESfBWteZd" tvg-id="EPG_ID" tvg-chno="110",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="112",Mezzo
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/m-r/mezzoit/logos/3p-logo._CB588295793_.png" tvg-id="Mezzo.de" tvg-chno="112",Mezzo
 https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="113",360TuneBox
+#EXTINF:-1 tvg-logo="https://gauermusic.com/geekroom/wp-content/uploads/2014/02/360tunebox.png" tvg-id="EPG_ID" tvg-chno="113",360TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="114",TRT Müzik
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=10veMRAs5tQv5IRQXlJQQ7IBWzw8OUOtP" tvg-id="TRT.MÜZİK.tr" tvg-chno="114",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="115",Kral Pop TV
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cCbsQDiaNvwdyBJSsflFEsi3W6WFpAcp" tvg-id="EPG_ID" tvg-chno="115",Kral Pop TV
 https://dogus.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8?app=kralpoptv_web&ce=3
-#EXTINF:-1 tvg-logo="LOGO_URL" tvg-id="EPG_ID" tvg-chno="118",Dream Türk
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1l5Bgw1i5gbdYtZlSHWCcDnkYToG1wtGH" tvg-id="EPG_ID" tvg-chno="118",Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1cUayGoUNB45Vq6AyuPzKWzh_cvRh0lNM" tvg-id="TRACE.URBAN.HD.tr" tvg-chno="119",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -55,7 +55,7 @@ https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?app=tlc_web&ce=3
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=18eyv5hzdwzIM59hleOkqlByfWlPonF7v" tvg-id="" tvg-chno="130",Rai Uno
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.MONDE.tr tvg-chno="131",TV5Monde
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WYijg4ZTn-1kMPvYyFKJ3yD94JVd3an4" tvg-id="TV5.Monde.de" tvg-chno="131",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1gA1eG2-zaWAAcQqrJwyG0l67JKa7NxSP" tvg-id="FRANCE.24.HD-FR.tr" tvg-chno="132",France 24 Français
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
@@ -63,13 +63,13 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2016/06/al_jazeera_arabic-logo_brandlogos.net_vbnaz.png" tvg-id="AL.JAZEERA.ARABIC.tr" tvg-chno="134",Al Jazeera Channel
 https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1O4LR-ztnbVPio142Ayzwl5OkZdtAlR2H" tvg-id="EPG_ID" tvg-chno="138",CNBC
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1O4LR-ztnbVPio142Ayzwl5OkZdtAlR2H" tvg-id="CNBC.de" tvg-chno="138",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-logo="https://capriole.com/wp-content/uploads/2025/10/bloomberg.png" tvg-id="BLOOMBERG.tr" tvg-chno="139",Bloomberg
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/anews/site/v2/i/a-news-logo.png" tvg-id="A.NEWS.HD.tr" tvg-chno="140",A News
 https://trn03.tulix.tv/gt-anews/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg=w2048-h2048#.png" tvg-id="BBC.WORLD.NEWS.tr" tvg-chno="141",BBC News
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/d/1vsX72zzJRz_sJMfqGHbkeZVDHyMfq7kg=w2048-h2048#.png" tvg-id="BBC.World.News.de" tvg-chno="141",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1Bwd_xqJHfdRsdcZ2TrG0Yuh5Hburyt1p" tvg-id="TRT.WORLD.HD.tr" tvg-chno="142",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
